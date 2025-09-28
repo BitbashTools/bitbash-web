@@ -58,7 +58,7 @@ function SideBar({ handleHamBurger, isOpen }) {
       {/* Header */}
       <div className="flex items-center justify-between p-4">
         <Link to="/">
-          <img src="https://i.postimg.cc/RFChHwCf/bitbash.png" alt="logo" className="h-20" />
+          <img src="https://i.postimg.cc/qqMTC2PW/untitled-0.jpg" alt="logo" className="h-20" />
         </Link>
         <img
           ref={hamburgerRef}
