@@ -1,0 +1,540 @@
+/* Team.css - Comprehensive Responsive Design */
+
+/* Base Styles */
+.team-container {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* Team Introduction Section */
+.team-intro {
+  padding: 5rem 1.5rem;
+  background: linear-gradient(135deg, #f9fafb 0%, #ffffff 100%);
+}
+
+.team-intro h1 {
+  font-size: clamp(2.5rem, 8vw, 3.75rem);
+  line-height: 1.1;
+  margin-bottom: 2rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.team-intro p {
+  font-size: clamp(1.125rem, 4vw, 1.5rem);
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  color: #6b7280;
+}
+
+.team-badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.team-badge {
+  background: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 9999px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e5e7eb;
+  font-size: clamp(0.875rem, 3vw, 1.125rem);
+  color: #374151;
+  white-space: nowrap;
+}
+
+/* Team Members Grid */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  padding: 0 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.team-member-card {
+  background: white;
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e5e7eb;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  width: 100%;
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+.team-member-card:hover {
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.team-member-image {
+  width: 100%;
+  height: 16rem;
+  object-fit: cover;
+  border-radius: 1.5rem 1.5rem 0 0;
+}
+
+.team-member-info {
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.team-member-name {
+  font-size: clamp(1.25rem, 4vw, 1.5rem);
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 0.5rem;
+}
+
+.team-member-role {
+  font-size: clamp(1rem, 3vw, 1.125rem);
+  font-weight: 600;
+  color: #6b7280;
+}
+
+/* Culture Section */
+.culture-section {
+  padding: 3rem 1.5rem;
+}
+
+.culture-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.culture-image-container {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.culture-image {
+  width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  transition: transform 0.5s ease;
+}
+
+.culture-image:hover {
+  transform: scale(1.02);
+}
+
+.culture-badge {
+  position: absolute;
+  bottom: -1.5rem;
+  right: -1.5rem;
+  background: white;
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  text-align: center;
+}
+
+.culture-badge-number {
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: #4f46e5;
+  margin-bottom: 0.25rem;
+}
+
+.culture-badge-text {
+  font-size: 0.875rem;
+  color: #6b7280;
+}
+
+.culture-content h2 {
+  font-size: clamp(2rem, 6vw, 3rem);
+  font-weight: 700;
+  color: #111827;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+}
+
+.culture-content p {
+  font-size: clamp(1rem, 3vw, 1.125rem);
+  line-height: 1.6;
+  color: #6b7280;
+  margin-bottom: 1.5rem;
+}
+
+.culture-cta {
+  margin-top: 2rem;
+}
+
+.culture-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #4f46e5;
+  color: white;
+  font-weight: 600;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  font-size: clamp(0.875rem, 3vw, 1rem);
+}
+
+.culture-button:hover {
+  background: #4338ca;
+  transform: translateY(-1px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+/* Team Values Grid */
+.values-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+.value-card {
+  background: white;
+  border-radius: 0.75rem;
+  padding: 2rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.value-card:hover {
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+  transform: translateY(-4px);
+}
+
+.value-icon {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.value-card:hover .value-icon {
+  transform: scale(1.1);
+}
+
+.value-title {
+  font-size: clamp(1.125rem, 4vw, 1.25rem);
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 0.75rem;
+}
+
+.value-description {
+  font-size: clamp(0.875rem, 3vw, 1rem);
+  line-height: 1.6;
+  color: #6b7280;
+}
+
+/* Stats Section */
+.stats-section {
+  padding: 3rem 1.5rem;
+}
+
+.stats-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.stats-header h2 {
+  font-size: clamp(2rem, 6vw, 3rem);
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 1.5rem;
+}
+
+.stats-header p {
+  font-size: clamp(1rem, 4vw, 1.25rem);
+  color: #6b7280;
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.stat-card {
+  background: white;
+  border: 2px solid #000;
+  border-radius: 0.75rem;
+  padding: 2rem;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.stat-card:hover {
+  border-color: #6b7280;
+  transform: scale(1.05);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.stat-number {
+  font-size: clamp(2rem, 8vw, 3rem);
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 0.75rem;
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: clamp(0.875rem, 3vw, 1.125rem);
+  color: #6b7280;
+  font-weight: 500;
+}
+
+/* FAQ Section */
+.faq-section {
+  padding: 3rem 1.5rem;
+}
+
+.faq-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.faq-header h2 {
+  font-size: clamp(2rem, 6vw, 3rem);
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 1.5rem;
+}
+
+.faq-header p {
+  font-size: clamp(1rem, 4vw, 1.25rem);
+  color: #6b7280;
+}
+
+.faq-container {
+  background: white;
+  border: 2px solid #000;
+  border-radius: 1rem;
+  padding: 3rem;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* Mobile Specific Styles */
+@media (max-width: 640px) {
+  .team-intro {
+    padding: 3rem 1rem;
+  }
+  
+  .team-badges {
+    gap: 0.75rem;
+  }
+  
+  .team-badge {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
+  
+  .team-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 0 0.5rem;
+  }
+  
+  .culture-section {
+    padding: 2rem 1rem;
+  }
+  
+  .culture-grid {
+    gap: 2rem;
+  }
+  
+  .culture-badge {
+    bottom: -1rem;
+    right: -1rem;
+    padding: 1rem;
+  }
+  
+  .culture-badge-number {
+    font-size: 1.5rem;
+  }
+  
+  .values-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 0 0.5rem;
+  }
+  
+  .value-card {
+    padding: 1.5rem;
+  }
+  
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+  
+  .stat-card {
+    padding: 1.5rem 1rem;
+  }
+  
+  .faq-container {
+    padding: 1.5rem;
+  }
+}
+
+/* Tablet Styles */
+@media (min-width: 641px) and (max-width: 1024px) {
+  .team-intro {
+    padding: 4rem 2rem;
+  }
+  
+  .culture-grid {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  
+  .culture-section {
+    padding: 3rem 2rem;
+  }
+  
+  .values-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+  
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+  
+  .faq-container {
+    padding: 2.5rem;
+  }
+}
+
+/* Large Tablet/Small Desktop */
+@media (min-width: 1025px) {
+  .culture-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+  }
+  
+  .values-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .stats-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* iPhone Specific Optimizations */
+@media only screen and (max-width: 414px) {
+  .team-intro h1 {
+    font-size: 2.25rem;
+    line-height: 1.1;
+  }
+  
+  .team-intro p {
+    font-size: 1.125rem;
+    line-height: 1.5;
+  }
+  
+  .team-member-card {
+    max-width: 100%;
+    margin: 0;
+  }
+  
+  .culture-content h2 {
+    font-size: 1.875rem;
+  }
+  
+  .stat-number {
+    font-size: 2.25rem;
+  }
+  
+  .stats-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75rem;
+  }
+}
+
+/* iPad Specific */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+  
+  .culture-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+  }
+  
+  .values-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* High DPI Displays */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .team-member-image,
+  .culture-image {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  }
+}
+
+/* Animation Classes */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Accessibility Improvements */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Focus States */
+.culture-button:focus,
+.team-member-card:focus {
+  outline: 2px solid #4f46e5;
+  outline-offset: 2px;
+}
+
+/* Print Styles */
+@media print {
+  .team-intro,
+  .culture-section,
+  .stats-section,
+  .faq-section {
+    page-break-inside: avoid;
+  }
+}

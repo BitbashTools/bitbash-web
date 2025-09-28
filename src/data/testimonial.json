@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Jhon Bert",
+    "position": "CEO",
+    "company": "cloudclmlive",
+    "content": "Great work by Bitbash. They consistently deliver results promptly. Their communication is straightforward and efficient. I definitely recommend Bitbash.",
+    "date": "22/10/2023",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Rhys Hamilton-Davies",
+    "position": "CEO",
+    "company": "PolyglotMe",
+    "content": "Bitbash is outstanding: dependable, transparent, trustworthy, and best of all, we meet EVERY deadline.",
+    "date": "22/10/2023",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Vinicius Terranova",
+    "position": "Co-founder",
+    "company": "Terranova Global Venture Ltd.",
+    "content": "BitBash worked extremely professional. I was updated everyday with the progress made, I could also see the actual progress being made as well. This was the best experience I had.",
+    "date": "27/11/2024",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Bin Deng",
+    "position": "Co-founder",
+    "company": "ECOMHESS",
+    "content": "BitBash did a great job completing the project ahead of schedule. We removed several unnecessary features due to their lack of usability, and BitBash helped us save money by focusing on what truly mattered and working smart. Highly recommend to everyone in Software development field",
+    "date": "25/01/2024",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Diego Sinigaglia",
+    "position": "Co-founder",
+    "company": "AIRPROXY S.R.L.S.",
+    "content": "Zeeshan and his team are phenomenal. Successfully completed a unique and complicated project which required extensive research",
+    "date": "01/06/2024",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "Y Ben",
+    "position": "CEO",
+    "company": "Self",
+    "content": "BitBash, was super helpful even before the job was accepted. Team paid attention to our needs and helped us find a solution that meets our budget and timeline needs. It exceed my expectations in every count thanks to it's devoted work and focus on my full satisfaction. Even when things required more iterations he exhibited extreme professionalism and patience. Out of contract work was dealt with in a fair and transparent manner. I will certainly work with BitBash again",
+    "date": "02/10/2024",
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "name": "Jacopo Lazzarin",
+    "position": "CEO",
+    "company": "Oppoturnify",
+    "content": "They are true experts in their field, and their dedication to our success is evident in everything they do.",
+    "date": "22/01/2025",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "Robert Fox",
+    "position": "CEO",
+    "company": "send&get group",
+    "content": "They are true experts in their field, and their dedication to our success is evident in everything they do.",
+    "date": "22/05/2025",
+    "rating": 5
+  }
+]

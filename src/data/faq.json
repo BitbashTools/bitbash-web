@@ -1,0 +1,30 @@
+[
+	{
+		"question": "What is the work culture at your company?",
+		"answer": "Our work culture emphasizes collaboration, continuous learning, and a customer-centric approach. We believe in fostering an environment where our team feels empowered to innovate and drive solutions."
+	},
+	{
+		"question": "How is your team structured?",
+		"answer": "Our team is structured into various roles, including interns, junior software engineers, senior software engineers, and project managers, ensuring every aspect of development is covered."
+	},
+	{
+		"question": "Can I get to know more about your team members?",
+		"answer": "Absolutely! We take immense pride in our team's capabilities. You can view each member's profile and expertise on LinkedIn."
+	},
+	{
+		"question": "What tech stack do you primarily work with?",
+		"answer": "Chatbot Development, Artificial Intelligence, Python, Back-End Development: PHP, Django Stack, Laravel, Full-Stack Development: MERN Stack, Front-End Development: Next.js, Angular, React, Electron, ChatGPT API Integration"
+	},
+	{
+		"question": "How many developers do you have on board?",
+		"answer": "We have a strong team of over 10 dedicated developers, specialized in various areas of software development."
+	},
+	{
+		"question": "How do you ensure good collaboration and communication within the team?",
+		"answer": "Our approach emphasizes strong collaboration. We have implemented a system with detailed logs and rely on scrum project management to ensure streamlined communication and effective teamwork."
+	},
+	{
+		"question": "How do you handle team dynamics during complex projects?",
+		"answer": "Clear communication is at the heart of our operations. We have designated project leads to steer the direction. Through consistent check-ins, feedback sessions, and team-building activities, we maintain a harmonious and efficient environment, even when faced with intricate projects."
+	}
+]

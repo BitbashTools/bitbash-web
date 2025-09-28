@@ -1,0 +1,28 @@
+{
+  "products": [
+     {
+      "title": "Appilot",
+      "description": "AppPilot streamlines app development with intuitive tools and real-time collaboration",
+      "image": "https://i.postimg.cc/s2VYMGKP/app.jpg",
+      "link":"https://www.appilot.app/"
+    },
+    {
+      "title": "Ttinit",
+      "description": "Turbocharge your TikTok Shop affiliate outreach. Better results and effortless management.",
+      "image": "https://i.postimg.cc/3rCdsrPr/download-1.jpg",
+      "link":"https://ttinit.com/"
+    },
+    {
+      "title": "BITBOT",
+      "description": "BITBOT enforces distraction-free deep work hours in Slack by scheduling non-urgent messages and supporting urgent overrides with audit trails.",
+      "image": "https://i.postimg.cc/FKDSXrfJ/download.jpg",
+      "link": "https://bitbot-bitbash.vercel.app/"
+    },
+    {
+      "title": "BITLINK",
+      "description": "Bridge WhatsApp, Telegram, and Discord into Slack with two-way, real-time communication.",
+      "link": "https://bitlink-page.vercel.app/",
+      "image": "https://i.postimg.cc/0yypcX2f/bitlink-capital-cover.jpg"
+    }
+  ]
+}

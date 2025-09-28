@@ -1,0 +1,19 @@
+/* Default style: 1 column */
+.gridcolumn {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+/* 2 columns for screens 541px and up */
+@media (min-width: 541px) {
+  .gridcolumn {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* 4 columns for screens 841px and up */
+@media (min-width: 870px) {
+  .gridcolumn {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}

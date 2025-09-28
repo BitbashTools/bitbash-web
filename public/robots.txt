@@ -1,0 +1,11 @@
+# Block specific known bad bots
+User-agent: BadBotName1
+Disallow: /
+User-agent: BadBotName2
+Disallow: /
+
+# Allow major search engines
+User-agent: Googlebot
+Disallow:
+User-agent: Bingbot
+Disallow:

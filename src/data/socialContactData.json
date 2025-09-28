@@ -1,0 +1,44 @@
+[
+  {
+    "href": "https://twitter.com/BITBASHdev",
+    "target": "_blank",
+    "rel": "noreferrer",
+    "icon": "faTwitter",
+    "text": "Twitter"
+  },
+  {
+    "href": "https://www.linkedin.com/company/bitbashcompany",
+    "target": "_blank",
+    "rel": "noreferrer noopener ",
+    "icon": "faLinkedinIn",
+    "text": "LinkedIn"
+  },
+  {
+    "href": "https://wa.me/923104985441",
+    "target": "_blank",
+    "rel": "noreferrer noopener",
+    "icon": "faWhatsapp",
+    "text": "WhatsApp"
+  },
+  {
+    "href": "https://t.me/bitbash",
+    "target": "_blank",
+    "rel": "noreferrer noopener",
+    "icon": "faTelegram",
+    "text": "Telegram"
+  },
+  {
+    "href": "https://medium.com/@bitbash9",
+    "target": "_blank",
+    "rel": "noreferrer noopener",
+    "icon": "faMedium",
+    "text": "Medium"
+  },
+  {
+    "href": "https://discord.gg/TuyZZXYM8P",
+    "target": "_blank",
+    "rel": "noreferrer noopener",
+    "icon": "faDiscord",
+    "text": "Discord"
+  }
+]

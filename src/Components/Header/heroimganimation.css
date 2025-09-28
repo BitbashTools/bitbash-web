@@ -1,0 +1,123 @@
+@keyframes rotateImage {
+    0%, 100% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(-45deg);
+    }
+  }
+  
+  @keyframes moveTagOne {
+    0%, 100% {
+      transform: translate(0, 0) rotate(0deg);
+      background-color: rgba(39, 30, 122, 0.8);
+    }
+    50% {
+      transform: translate(-10px, 5rem) rotate(-10deg);
+      background-color: rgba(50, 25, 233, 0.8);
+    }
+  }
+  
+  @keyframes moveTagTwo {
+    0%, 100% {
+      transform: translate(0, 0) rotate(0deg);
+      background-color: rgba(45, 26, 213, 0.8);
+    }
+    50% {
+      transform: translate(12px, -5rem) rotate(10deg);
+      background-color: rgba(42, 18, 231, 0.8);
+    }
+  }
+  
+  .image-banner-bg {
+    animation: rotateImage 10s infinite ease-in-out;
+  }
+  
+  .banner-tag.one {
+    animation: moveTagOne 10s infinite ease-in-out;
+  }
+  
+  .banner-tag.two {
+    animation: moveTagTwo 10s infinite ease-in-out;
+  }
+  
+  @media screen and (max-width: 991px) {
+    @keyframes moveTagOne {
+      0%, 100% {
+        transform: translate(0, 0) rotate(0deg);
+        background-color: rgba(39, 30, 122, 0.8);
+      }
+      50% {
+        transform: translate(-5%, 50%) rotate(-10deg);
+        background-color: rgba(50, 25, 233, 0.8);
+      }
+    }
+  
+    @keyframes moveTagTwo {
+      0%, 100% {
+        transform: translate(0, 0) rotate(0deg);
+        background-color: rgba(45, 26, 213, 0.8);
+      }
+      50% {
+        transform: translate(5%, -50%) rotate(10deg);
+        background-color: rgba(42, 18, 231, 0.8);
+      }
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    @keyframes moveTagOne {
+      0%, 100% {
+        transform: translate(0, 0) rotate(0deg);
+        background-color: rgba(39, 30, 122, 0.8);
+      }
+      50% {
+        transform: translate(-3%, 40%) rotate(-8deg);
+        background-color: rgba(50, 25, 233, 0.8);
+      }
+    }
+  
+    @keyframes moveTagTwo {
+      0%, 100% {
+        transform: translate(0, 0) rotate(0deg);
+        background-color: rgba(45, 26, 213, 0.8);
+      }
+      50% {
+        transform: translate(4%, -40%) rotate(8deg);
+        background-color: rgba(42, 18, 231, 0.8);
+      }
+    }
+  }
+  
+  @media screen and (max-width: 479px) {
+    @keyframes rotateImage {
+      0%, 100% {
+        transform: rotate(0deg);
+      }
+      50% {
+        transform: rotate(-15deg);
+      }
+    }
+    @keyframes moveTagOne {
+      0%, 100% {
+        transform: translate(0, 0) rotate(0deg);
+        background-color: rgba(39, 30, 122, 0.8);
+      }
+      50% {
+        transform: translate(-1px, 0.5rem) rotate(-6deg);
+        background-color: rgba(50, 25, 233, 0.8);
+      }
+    }
+  
+    @keyframes moveTagTwo {
+      0%, 100% {
+        transform: translate(0, 0) rotate(0deg);
+        background-color: rgba(45, 26, 213, 0.8);
+      }
+      50% {
+        transform: translate(3px, -0.5rem) rotate(6deg);
+        background-color: rgba(42, 18, 231, 0.8);
+      }
+    }
+  }
+

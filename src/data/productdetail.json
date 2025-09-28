@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Appilot",
+      "description": "AppPilot streamlines app development with intuitive tools and real-time collaboration",
+      "image": "https://i.postimg.cc/s2VYMGKP/app.jpg",
+      "link": "https://www.appilot.app/",
+      "category": "Development Tools",
+      "features": ["Intuitive Design", "Real-time Collaboration", "Streamlined Workflow", "Cross-platform Support"],
+      "projectDetails": {
+        "overview": "AppPilot revolutionizes the app development process by providing a comprehensive platform that combines intuitive design tools with powerful collaboration features. Built for modern development teams, it bridges the gap between design and development.",
+        "targetAudience": "Mobile app developers, UI/UX designers, startup teams, and software development agencies",
+        "keyTechnologies": ["React Native", "Node.js", "WebSocket", "Cloud Infrastructure"],
+        "useCases": [
+          "Rapid prototyping and wireframing",
+          "Team collaboration on app projects",
+          "Cross-platform mobile development",
+          "Real-time design feedback and iteration"
+        ],
+        "benefits": [
+          "Reduces development time by 40%",
+          "Seamless designer-developer handoff",
+          "Built-in version control for designs",
+          "Live preview on multiple devices"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Ttinit",
+      "description": "Turbocharge your TikTok Shop affiliate outreach. Better results and effortless management.",
+      "image": "https://i.postimg.cc/3rCdsrPr/download-1.jpg",
+      "link": "https://ttinit.com/",
+      "category": "Marketing Automation",
+      "features": ["Affiliate Management", "TikTok Integration", "Automated Outreach", "Performance Analytics"],
+      "projectDetails": {
+        "overview": "Ttinit is a powerful marketing automation platform specifically designed for TikTok Shop affiliate marketing. It streamlines the entire process from influencer discovery to campaign management, making affiliate marketing more efficient and profitable.",
+        "targetAudience": "E-commerce brands, affiliate marketers, social media managers, and TikTok Shop sellers",
+        "keyTechnologies": ["TikTok API", "Machine Learning", "Automation Engine", "Analytics Dashboard"],
+        "useCases": [
+          "Automated influencer outreach campaigns",
+          "TikTok Shop affiliate program management",
+          "Performance tracking and optimization",
+          "Bulk communication with potential affiliates"
+        ],
+        "benefits": [
+          "Increases affiliate recruitment by 300%",
+          "Automates 80% of outreach tasks",
+          "Advanced targeting and filtering",
+          "Real-time performance analytics"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "BITBOT",
+      "description": "BITBOT enforces distraction-free deep work hours in Slack by scheduling non-urgent messages and supporting urgent overrides with audit trails.",
+      "image": "https://i.postimg.cc/FKDSXrfJ/download.jpg",
+      "link": "https://bitbot-bitbash.vercel.app/",
+      "category": "Productivity",
+      "features": ["Slack Integration", "Message Scheduling", "Audit Trails", "Focus Management"],
+      "projectDetails": {
+        "overview": "BITBOT is an intelligent Slack bot that promotes deep work culture by managing message flow during focused work hours. It intelligently schedules non-urgent messages while allowing urgent communications through with proper audit trails and team transparency.",
+        "targetAudience": "Remote teams, knowledge workers, software development teams, and productivity-focused organizations",
+        "keyTechnologies": ["Slack API", "AI Message Classification", "Scheduling Engine", "Analytics Backend"],
+        "useCases": [
+          "Enforcing company-wide focus hours",
+          "Reducing meeting interruptions",
+          "Smart message prioritization",
+          "Team productivity analytics"
+        ],
+        "benefits": [
+          "Improves deep work sessions by 60%",
+          "Reduces unnecessary interruptions",
+          "Maintains team communication flow",
+          "Provides productivity insights and reports"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "BITLINK",
+      "description": "Bridge WhatsApp, Telegram, and Discord into Slack with two-way, real-time communication.",
+      "image": "https://i.postimg.cc/0yypcX2f/bitlink-capital-cover.jpg",
+      "link": "https://bitlink-page.vercel.app/",
+      "category": "Communication",
+      "features": ["Multi-platform Bridge", "Real-time Sync", "Two-way Communication", "Unified Interface"],
+      "projectDetails": {
+        "overview": "BITLINK creates a seamless communication bridge between popular messaging platforms (WhatsApp, Telegram, Discord) and Slack. It enables teams to maintain centralized communication while staying connected with clients and communities across different platforms without switching contexts.",
+        "targetAudience": "Remote teams, customer support teams, community managers, and businesses with multi-platform communication needs",
+        "keyTechnologies": ["Multi-platform APIs", "Real-time Messaging", "Message Translation Engine", "Unified Dashboard"],
+        "useCases": [
+          "Centralized customer support across platforms",
+          "Team communication consolidation",
+          "Community management from single interface",
+          "Cross-platform message synchronization"
+        ],
+        "benefits": [
+          "Reduces platform switching by 90%",
+          "Centralizes all communications in Slack",
+          "Maintains message history across platforms",
+          "Improves response time and team efficiency"
+        ]
+      }
+    }
+  ]
+}

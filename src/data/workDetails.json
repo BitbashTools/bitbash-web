@@ -1,0 +1,2360 @@
+[
+    {
+        "id": 1,
+        "pic": "./pastproject/facebookmarkzuckerburg.png",
+        "title": "Facebook Ad Account Stability Solution",
+        "duration": "Oct 4, 2019 - Dec 7, 2019",
+        "client": "DREAM BIGGER PTE LTD",
+        "location": "Singapore",
+        "overview": ["This project addressed critical challenges in Facebook advertising account management by developing automated systems for account retrieval and maintenance. The solution implemented proxy network integration and IP management protocols to ensure consistent access to advertising platforms while maintaining account integrity. The project included establishing standardized operational procedures to streamline account management workflows and reduce platform-related disruptions for digital advertising campaigns."],
+        "responsibilities": [
+            "Designed and executed a system to retrieve real and aged Facebook accounts...",
+            "Developed solutions that enabled specific Facebook profiles to be accessed with their original IPs...",
+            "Established organizational SOPs, streamlining team workflows and account management processes."
+        ],
+        "achievements": [
+            "Specific achievements were not provided"
+        ],
+        "category": "Full Stack Development & Digital Advertising Solutions",
+        "skills_deployed": ["Software Design", "Software Debugging", "Facebook Development", "Web Proxy Integration", "PROXY Networks", " Remote Support Software"],
+        "client_feedback": "While specific feedback was not provided by the client",
+        "tags": [
+            "Full Stack Development",
+            "Digital Advertising Solutions"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Software Design, Software Debugging, Facebook Development, Web Proxy Integration, PROXY Networks, and Remote Support Software.\nResponsibilities: ['Designed and executed a system to retrieve real and aged Facebook accounts...', 'Developed solutions that enabled specific Facebook profiles to be accessed with their original IPs...', 'Established organizational SOPs, streamlining team workflows and account management processes.']\nOverview: BitBash addressed a critical challenge faced by our client, an e-commerce company heavily relying on the Facebook ads platform...",
+        "heading": "Solution Development"
+    },
+    {
+        "id": 2,
+        "pic": "./pastproject/AI Chatbot Integration for Professional Queries.png",
+        "title": " AI Chatbot Integration for Professional Queries",
+        "duration": "Jul 24, 2023 - Sep 22, 2023",
+        "client": "Ketut Katherine",
+        "location": "Worldwide",
+        "overview": ["This project involved integrating advanced artificial intelligence capabilities into a client's existing web platform to handle professional inquiries and user interactions. The implementation included API integration with large language models, database connectivity for accessing professional directories, and custom fine-tuning to ensure accurate, context-aware responses. The solution enhanced user engagement by providing intelligent automated responses while maintaining integration with existing business systems and workflows"],
+        "responsibilities": [
+            "Seamless API integration for chatbot functionality",
+            "Dedicated fine-tuning of the AI model for tailored responses",
+            "Integration of a comprehensive database, allowing specific user queries",
+            "Continuous testing and feedback iterations for optimal performance"
+        ],
+        "achievements": [
+            "BitBash's robust solution not only met but exceeded client expectations."
+        ],
+        "category": "Full Stack Development",
+        "skills_deployed": ["Full Stack Development", "API Integration", "Database Development", "AI Model Fine-tuning", "Web Development"],
+        "client_feedback": "BitBash created an AI chatbot for our website that transformed our user interaction...",
+        "tags": [
+            "Full Stack Development",
+            "AI Integration",
+            "Database Development"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Full Stack Development, API Integration, Database Development, AI Model Fine-tuning, Web Development\nResponsibilities: ['Seamless API integration for chatbot functionality', 'Dedicated fine-tuning of the AI model for tailored responses', 'Integration of a comprehensive database, allowing specific user queries', 'Continuous testing and feedback iterations for optimal performance']\nOverview: BitBash successfully integrated a sophisticated chatbot leveraging the capabilities of large language models...",
+        "heading": "Chatbot Integration"
+    },
+    {
+        "id": 3,
+        "pic": "./pastproject/adminwork.png",
+        "title": "Comprehensive Administrative Task Management",
+        "duration": "Jul 21, 2021 - Aug 7, 2021",
+        "client": "John",
+        "location": "UK",
+        "overview": ["This project focused on executing various administrative and operational tasks to support client business functions and organizational efficiency. The work involved coordinating multiple administrative processes, ensuring timely completion of assigned duties, and maintaining quality standards throughout task execution. The project emphasized reliable communication, attention to detail, and adaptable problem-solving to meet diverse administrative requirements within specified timeframes."],
+        "responsibilities": [
+            "Carrying out various administrative duties as specified by the client.",
+            "Focusing on timely completion and ensuring that all tasks met the client's standards."
+        ],
+        "achievements": [
+            "Bitbash's team managed to not only meet but exceed the client's expectations."
+        ],
+        "category": "Automation",
+        "skills_deployed": ["Administrative proficiency", "Stellar communication skills"],
+        "client_feedback": "Fantastic freelancer - hard working and thorough.",
+        "tags": [
+            "Automation",
+            "Efficiency",
+            "Client Satisfaction"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Administrative proficiency, Stellar communication skills\nResponsibilities: ['Carrying out various administrative duties as specified by the client.', \"Focusing on timely completion and ensuring that all tasks met the client's standards.\"]\nOverview: Bitbash was commissioned to manage and execute various administrative tasks for the client...",
+        "heading": "Administrative Tasks"
+    },
+    {
+        "id": 5,
+        "pic": "./pastproject/browserautomationv2.png",
+        "title": "Browser Automation Suite: Version 2",
+        "duration": "Oct 15, 2019 - Oct 21, 2019",
+        "client": "Mark Zuckerberg",
+        "location": "USA",
+        "overview": ["This project involved developing an enhanced browser automation framework designed to streamline repetitive web-based tasks and improve operational efficiency. The solution built upon previous automation capabilities with upgraded features, improved reliability, and expanded functionality for handling complex web interactions. The implementation focused on creating robust automation scripts that could navigate various web environments while maintaining consistent performance and error handling"],
+        "responsibilities": [
+            "BitBash was responsible for executing the Browser automation V2 project within the defined period."
+        ],
+        "achievements": [
+            "BitBash successfully completed the project within the stipulated timeframe."
+        ],
+        "category": "Automation",
+        "skills_deployed": ["Browser Automation, Efficient Execution, High Quality"],
+        "client_feedback": "Quality of Work",
+        "tags": [
+            "Automation",
+            "Efficient Execution",
+            "High Quality"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Not mentioned\nResponsibilities: ['BitBash was responsible for executing the Browser automation V2 project within the defined period.']\nOverview: Not specified in the initial details",
+        "heading": "Browser Automation"
+    },
+    {
+        "id": 6,
+        "pic": "./pastproject/datacrawlingandarchitecture.png",
+        "title": "Revolutionizing Scalable Data Crawling Paradigms with Optimized Architecture and Parallel Processing on AWS",
+        "duration": "Mar 10, 2023 - Jul 2, 2023",
+        "client": "LARGO FILMS SA",
+        "location": "Lausanne, Switzerland",
+        "overview": [],
+        "responsibilities": [
+            "Spearheaded the integration of Python-based solutions, leveraging Django's capabilities.",
+            "Refurbished existing algorithms to optimize data extraction speeds...",
+            "Pioneered strategies to parallelize data extraction, reducing process time significantly.",
+            "Instituted regular data crawling schedules to ensure real-time data accuracy..."
+        ],
+        "achievements": [
+            "Triumphed in overhauling the codebase to meet stringent execution benchmarks.",
+            "Successfully managed vast data extraction within set timelines..."
+        ],
+        "category": null,
+        "skills_deployed": ["Data crawling", "Architecture Development", "Python", "AWS"],
+        "client_feedback": "No given",
+        "tags": [
+            "Data Engineering",
+            "Architecture Development",
+            "Python",
+            "AWS"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: [\"Spearheaded the integration of Python-based solutions, leveraging Django's capabilities.\", 'Refurbished existing algorithms to optimize data extraction speeds...', 'Pioneered strategies to parallelize data extraction, reducing process time significantly.', 'Instituted regular data crawling schedules to ensure real-time data accuracy...']\nOverview: Engaged in a pivotal project with LARGO FILMS SA, we at BitBash designed and developed a sophisticated architecture...",
+        "heading": "Data Crawling & Architecture"
+    },
+    {
+        "id": 7,
+        "pic": "./workDummypic.jpg",
+        "title": "AI Chatbot Integration for Professional Queries",
+        "duration": "Jul 24, 2023 - Sep 22, 2023",
+        "client": "Smith",
+        "location": "Worldwide",
+        "overview": ["This project involved integrating advanced artificial intelligence capabilities into a client's existing web platform to handle professional inquiries and user interactions. The implementation included API integration with large language models, database connectivity for accessing professional directories, and custom fine-tuning to ensure accurate, context-aware responses. The solution enhanced user engagement by providing intelligent automated responses while maintaining integration with existing business systems and workflows."],
+        "responsibilities": [
+            "Integration of a large language model API into the client's website.",
+            "Fine-tuning of the AI model for better accuracy...",
+            "Database integration and development of a feature to query a database of 25k professionals."
+        ],
+        "achievements": [
+            "Successfully met all project requirements, which led to a highly satisfied client.",
+            "Received a top rating of 5.00 from the client..."
+        ],
+        "category": null,
+        "skills_deployed": ["Full Stack Development", "Web Application API Integration", "Database Development", "API, Web Development"],
+        "client_feedback": "BitBash created an AI chatbot for our website that exceeded our expectations...",
+        "tags": [
+            "AI Chatbot",
+            "AI Integration",
+            "Large Language Model",
+            "Web Development"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Full Stack Development, Web Application API Integration, Database Development, API, Web Development\nResponsibilities: [\"Integration of a large language model API into the client's website.\", 'Fine-tuning of the AI model for better accuracy...', 'Database integration and development of a feature to query a database of 25k professionals.']\nOverview: BitBash successfully integrated the API from one of the recognized language models...",
+        "heading": "Web Chatbot Implementation"
+    },
+    {
+        "id": 8,
+        "pic": "./pastproject/hsi.png",
+        "title": "Strategic Aggregation and Synthesis of HSI Data Metrics for Enhanced Analysis",
+        "duration": "Apr 14, 2020 - Apr 24, 2020",
+        "client": "Alberto",
+        "location": "Denmark, Esbjerg V",
+        "overview": ["This project focused on the strategic aggregation and synthesis of HSI data metrics to enhance analysis capabilities. The work involved collecting and consolidating data from various sources, ensuring data accuracy and relevance, and developing a comprehensive framework for data analysis. The project emphasized the importance of data-driven decision-making and aimed to provide actionable insights to stakeholders."],
+        "responsibilities": [
+            "Conducted thorough data collection and validation processes.",
+            "Developed a robust framework for data analysis and reporting.",
+            "Collaborated with stakeholders to identify key metrics and insights."
+        ],
+        "achievements": [
+            "Delivered a comprehensive report that informed strategic decision-making.",
+            "Improved data accessibility and usability for stakeholders."
+        ],
+        "category": null,
+        "skills_deployed": ["Data Analysis", "Client Satisfaction"],
+        "client_feedback": null,
+        "tags": [
+            "Data Engineering",
+            "Client Satisfaction"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: ['']\nOverview: ",
+        "heading": "Data Engineering"
+    },
+    {
+        "id": 9,
+        "pic": "./workDummypic.jpg",
+        "title": "ChatGPT Integration for Legal Software",
+        "duration": "Jul 26, 2023 - Sep 22, 2023",
+        "client": "Inhouse Attorneys, P.C.",
+        "location": "Newport Beach, United States",
+        "overview": ["This project involved integrating advanced AI language model capabilities into an existing legal software platform to enhance user productivity and streamline legal workflows. The implementation required careful integration of ChatGPT API functionality while ensuring compliance with legal industry standards and data security requirements. The solution focused on developing AI-powered features that could assist legal professionals with document analysis, research tasks, and client communication within their established software environment. The project emphasized maintaining the integrity of legal processes while introducing intelligent automation capabilities that aligned with the firm's operational objectives."],
+        "responsibilities": [
+            "Pioneered the introduction of AI-driven functionalities into the existing legal software platform...",
+            "Collaborated closely with the client to ensure that the AI capabilities aligned with the core objectives of the software."
+        ],
+        "achievements": [
+            "BitBash's dedicated approach led to the successful implementation of AI capabilities..."
+        ],
+        "category": "Legal Software Development with AI Integration",
+        "skills_deployed": ["AI Integration", "API Development", "Data Security"],
+        "client_feedback": "BitBash showcased exceptional proficiency in their domain...",
+        "tags": [
+            "AI Integration",
+            "Legal Software",
+            "ChatGPT",
+            "Machine Learning"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: ['Pioneered the introduction of AI-driven functionalities into the existing legal software platform...', 'Collaborated closely with the client to ensure that the AI capabilities aligned with the core objectives of the software.']\nOverview: For Inhouse Attorneys, P.C., BitBash spearheaded the integration of ChatGPT and/or Jasper into their legal software...",
+        "heading": "Legal Software AI Integration"
+    },
+    {
+        "id": 10,
+        "pic": "./pastproject/linkedInbot.png",
+        "title": "Advanced LinkedIn Automation Tool with Twitter Integration Capabilities",
+        "duration": "Aug 3, 2023 - Sep 7, 2023 (40 hours)",
+        "client": "Rhys Hamilton-Davies",
+        "location": "Esher, United Kingdom",
+        "overview": ["This project involved developing an advanced automation tool for LinkedIn that integrates with Twitter to enhance user engagement and streamline social media management. The solution aimed to provide users with intelligent automation features, including content scheduling, audience targeting, and performance analytics across both platforms."],
+        "responsibilities": [
+            "Leading the design and implementation of the LinkedIn automation bot.",
+            "Ensuring seamless integration and optimal performance with LinkedIn's API...",
+            "Strategizing and executing the groundwork for future integration with Twitter..."
+        ],
+        "achievements": [
+            "Successful development and deployment of the LinkedIn bot within the agreed timeframe.",
+            "Attainment of an overall client satisfaction rating of 5.00..."
+        ],
+        "category": "Scripting & Automation",
+        "skills_deployed": ["Python", "API Integration", "Automation"],
+        "client_feedback": null,
+        "tags": [
+            "LinkedIn Bot",
+            "Automation",
+            "Python",
+            "API Integration"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: ['Leading the design and implementation of the LinkedIn automation bot.', \"Ensuring seamless integration and optimal performance with LinkedIn's API...\", 'Strategizing and executing the groundwork for future integration with Twitter...']\nOverview: BitBash was tasked with developing an application to facilitate LinkedIn automation activities...",
+        "heading": "LinkedIn Automation"
+    },
+    {
+        "id": 11,
+        "pic": "./pastproject/facebookAutomationBot.png",
+        "title": "Development of Facebook Automation Bot",
+        "duration": "May 5, 2020 - Nov 16, 2020",
+        "client": "David and Jake",
+        "location": "Denmark, Esbjerg V",
+        "overview": ["This project focused on the strategic aggregation and synthesis of HSI data metrics to enhance analysis capabilities. The work involved collecting and consolidating data from various sources, ensuring data accuracy and relevance, and developing a comprehensive framework for data analysis. The project emphasized the importance of data-driven decision-making and aimed to provide actionable insights to stakeholders."],
+        "responsibilities": [
+            "Conducted thorough data collection and validation processes.",
+            "Developed a robust framework for data analysis and reporting.",
+            "Collaborated with stakeholders to identify key metrics and insights."
+        ],
+        "achievements": [
+            "Delivered a comprehensive report that informed strategic decision-making.",
+            "Improved data accessibility and usability for stakeholders."
+        ],
+        "category": "",
+        "skills_deployed": [ "Automation", "Software Development", "Digital Marketing Tools"],
+        "client_feedback": null,
+        "tags": [
+            "Bot Development","Automation","API Integration","Web Scraping"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: ['']\nOverview: ",
+        "heading": "Facebook Bot Development"
+    },
+    {
+        "id": 12,
+        "pic": "./pastproject/electionDataCollection.png",
+        "title": "Automated Election Data Collection from Psephos",
+        "duration": "Dec 25, 2019 - Jan 17, 2020",
+        "client": "Alberto Ortega",
+        "location": "Bloomington, United States",
+        "overview": ["This project focused on automating the extraction of election data from the Psephos website to streamline the data collection process for political analysis. The solution aimed to enhance the accuracy and efficiency of data retrieval while ensuring compliance with relevant data usage policies."],
+        "responsibilities": [
+            "Scrutinizing the Psephos website's architecture...",
+            "Crafting an automated solution that could seamlessly procure the required election data...",
+            "Validating that the extracted dataset aligned perfectly with the client's Excel sample."
+        ],
+        "achievements": [
+            "BitBash rose to the occasion by delivering the necessary election data well ahead of the stipulated deadline..."
+        ],
+        "category": "Data Extraction/ETL",
+        "skills_deployed": ["Statistical analysis", "Data Extraction", "ETL Processes"],
+        "client_feedback": null,
+        "tags": [
+            "Data Engineering"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: [\"Scrutinizing the Psephos website's architecture...\", 'Crafting an automated solution that could seamlessly procure the required election data...', \"Validating that the extracted dataset aligned perfectly with the client's Excel sample.\"]\nOverview: BitBash was entrusted with the task of extracting national election data from the Psephos website...",
+        "heading": "Data Engineering"
+    },
+    {
+        "id": 13,
+        "pic": "./pastproject/datascientistneeded.png",
+        "title": "Strategic Data Engineering: From Legacy Structures to Modern Data Frameworks",
+        "duration": "Jan 4, 2021 - Oct 24, 2021",
+        "client": "Century Idea Consultancy",
+        "location": "Saudia Arabia,Riyadh",
+        "overview": ["This project involved the strategic transformation of legacy data structures into modern frameworks to enhance data accessibility and usability. The work focused on optimizing data workflows, improving data quality, and ensuring compliance with industry standards."],
+        "responsibilities": [
+            "Generation and management of large datasets.",
+            "Engaging in data transformation tasks...",
+            "Continuous collaboration with the client's team..."
+        ],
+        "achievements": [
+            "Successful completion and delivery of datasets within the agreed timeframe..."
+        ],
+        "category": null,
+        "skills_deployed": ["Data Engineering", "Data Transformation", "Data Quality Assurance"],
+        "client_feedback": "I enjoyed working with BitBash and will likely have additional jobs for them in the future.",
+        "tags": ["Data Engineering", "Data Transformation", "Data Quality Assurance"],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: ['Data Engineering', 'Data Transformation']\nResponsibilities: ['Generation and management of large datasets.', 'Engaging in data transformation tasks...', \"Continuous collaboration with the client's team...\"]\nOverview: The project involved BitBash's expertise in data science to produce extensive datasets...",
+        "heading": "Big Data Management"
+    },
+    {
+        "id": 14,
+        "pic": "./pastproject/dataEngNeeded.png",
+        "title": "Comprehensive Data Engineering: Transformation and Optimization of Extensive Tables via JSON Structuring",
+        "duration": "Sep 22, 2020 - Jan 9, 2021",
+        "client": "",
+        "location": "",
+        "overview": ["This project focused on transforming and optimizing large-scale datasets through systematic cleaning, restructuring, and format conversion processes. The work involved rearranging complex data tables using JSON structuring methodologies and implementing efficient data transformation pipelines to improve data accessibility and usability. The project required careful attention to data integrity throughout the transformation process while ensuring seamless integration with the client's existing data infrastructure and portal systems."],
+        "responsibilities": [
+            "Cleaning and reshaping datasets for optimization.",
+            "Rearranging large tables using JSON format.",
+            "Uploading cleaned and reshaped datasets to the client's portal."
+        ],
+        "achievements": [
+            "Successfully rearranged and uploaded datasets..."
+        ],
+        "category": "Data Engineering",
+        "skills_deployed": ["Data Analysis","Data Engineering", "JSON", "Data Transformation"],
+        "client_feedback": null,
+        "tags": [
+            "Data Engineering",
+            "Data Quality Assurance",
+            "Data Transformation"
+
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: ['Data Engineering', 'JSON', 'Data Transformation']\nResponsibilities: ['Cleaning and reshaping datasets for optimization.', 'Rearranging large tables using JSON format.', \"Uploading cleaned and reshaped datasets to the client's portal.\"]\nOverview: The objective was to clean, reshape, and upload datasets into the client's portal...",
+        "heading": "Data Engineering & JSON"
+    },
+    {
+        "id": 15,
+        "pic": "./pastproject/linkedInprofileScrapper.png",
+        "title": "Comprehensive LinkedIn Profile Data Extraction: A Tool for Seamless and Precise Data Mining",
+        "duration": "Jan 29, 2020 - Apr 5, 2020",
+        "client": "Shay Noir",
+        "location": "Toronto, Canada",
+        "overview": ["This project involved developing a specialized data extraction tool designed to systematically collect and organize professional profile information from LinkedIn's platform. The solution focused on creating consistent data formatting protocols and implementing reliable extraction methodologies to ensure data quality and completeness. The project required careful consideration of platform compliance requirements while building robust data processing capabilities to handle large-scale profile information retrieval and organization."],
+        "responsibilities": [
+            "Conceptualized, designed, and deployed a tool to extract intricate details from LinkedIn profiles...",
+            "Ensured all data extracted adhered to a consistent and client-preferred format...",
+            "Addressed and resolved challenges tied to the scraping procedure..."
+        ],
+        "achievements": [
+            "Under the BitBash banner, the team achieved successful development and deployment of a scraper that met the client's precise requirements..."
+        ],
+        "category": "Data Extraction/ETL",
+        "skills_deployed": ["Data Extraction", "Data Transformation"],
+        "client_feedback": null,
+        "tags": [
+            "Data Extraction/ETL", "Data Engineering"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: ['Data Extraction', 'Data Transformation']\nResponsibilities: ['Conceptualized, designed, and deployed a tool to extract intricate details from LinkedIn profiles...', 'Ensured all data extracted adhered to a consistent and client-preferred format...', 'Addressed and resolved challenges tied to the scraping procedure...']\nOverview: BitBash spearheaded the development of a sophisticated scraping tool aimed at extracting and organizing LinkedIn profile data...",
+        "heading": "LinkedIn Data Scraper"
+    },
+    {
+        "id": 16,
+        "pic": "./pastproject/linkedInProfileScrapperII.png",
+        "title": "LinkedIn Profile and Company Extraction for Denmark",
+        "duration": "Nov 30, 2019 - Dec 6, 2019",
+        "client": "Ronni Baslund",
+        "location": "Denmark, Esbjerg V",
+        "overview": ["This project focused on developing a comprehensive data extraction solution tailored for LinkedIn profiles and company information specific to the Danish market. The aim was to create a tool that could efficiently gather and structure relevant data while adhering to local compliance regulations."],
+        "responsibilities": [
+            "Crafting a robust scraper script using Node.js and Python...",
+            "Guaranteeing precision in scraping LinkedIn profiles and company information...",
+            "Seamlessly integrating the data into MongoDB..."
+        ],
+        "achievements": [
+            "BitBash championed the project with excellence, delivering the job precisely as described..."
+        ],
+        "category": "Data Engineering",
+        "skills_deployed": ["Data Extraction", "Data Transformation"],
+        "client_feedback": null,
+        "tags": [
+            "Data Engineering","Full Stack Development"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: ['Data Extraction', 'Data Transformation']\nResponsibilities: ['Crafting a robust scraper script using Node.js and Python...', 'Guaranteeing precision in scraping LinkedIn profiles and company information...', 'Seamlessly integrating the data into MongoDB...']\nOverview: BitBash undertook a project that centered around the development of a Node.js/Python scraper script...",
+        "heading": "Geographic Data Scraping"
+    },
+    {
+        "id": 17,
+        "pic": "./pastproject/gptmobileapp.png",
+        "title": "GPT Mobile Application for iOS and Android",
+        "duration": "Apr 12, 2023 - Aug 15, 2023",
+        "client": "Ro Co",
+        "location": "United Arab Emirates",
+        "overview": ["This project involved the development of a mobile application leveraging the capabilities of the GPT-3.5 model. The app was designed to provide users with an intuitive interface for interacting with the AI, enabling seamless access to its features on both iOS and Android platforms."],
+        "responsibilities": [
+            "End-to-end design and development of the GPT Mobile App for iOS and Android...",
+            "Integration of the custom-trained GPT 3.5 model...",
+            "Implementing a seamless transition mechanism from free trial to premium subscription..."
+        ],
+        "achievements": [
+            "Successfully launched the app on both iOS and Android platforms ahead of the deadline..."
+        ],
+        "category": "Mobile App Development",
+        "skills_deployed": ["Mobile App Development", "AI Integration"],
+        "client_feedback": null,
+        "tags": [
+            "Mobile App Development"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: ['Mobile App Development', 'AI Integration']\nResponsibilities: ['End-to-end design and development of the GPT Mobile App for iOS and Android...', 'Integration of the custom-trained GPT 3.5 model...', 'Implementing a seamless transition mechanism from free trial to premium subscription...']\nOverview: BitBash developed a state-of-the-art mobile application for both iOS and Android platforms...",
+        "heading": "Mobile App Development"
+    },
+    {
+        "id": 18,
+        "pic": "./pastproject/facebookMultilogin.png",
+        "title": "Integration of Advanced Custom Bot Functionality for Facebook via Multilogin Platform",
+        "duration": "Oct 12, 2021 - Jul 24, 2023",
+        "client": "",
+        "location": "",
+        "overview": ["This project involved developing sophisticated automation capabilities for Facebook's platform through integration with the Multilogin browser management system. The solution required comprehensive analysis of client requirements followed by end-to-end design and implementation of custom bot functionality that could operate within multi-profile environments. The project focused on creating seamless integration between Facebook's interface and Multilogin's profile management capabilities while ensuring reliable performance and adherence to technical specifications"],
+        "responsibilities": [
+            "Comprehensive client requirement analysis and gathering...",
+            "End-to-end design, development, and deployment of the Facebook bot...",
+            "Seamless integration with the Multilogin platform..."
+        ],
+        "achievements": [
+            "On-time delivery with full adherence to client specifications..."
+        ],
+        "category": null,
+        "skills_deployed": ["Automation", "Bot Development"],
+        "client_feedback": null,
+        "tags": ["facebook Automation", "Automation"],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: ['Comprehensive client requirement analysis and gathering...', 'End-to-end design, development, and deployment of the Facebook bot...', 'Seamless integration with the Multilogin platform...']\nOverview: BitBash successfully designed and implemented a custom bot for Facebook integrated with Multilogin...",
+        "heading": "Custom Facebook Bot"
+    },
+    {
+        "id": 21,
+        "pic": "./pastproject/Selenium Integration with Multilogin.png",
+        "title": "Selenium Integration with Multilogin",
+        "duration": "Apr 12, 2020 - Apr 17, 2020",
+        "client": "",
+        "location": "",
+        "overview": ["This project focused on integrating Selenium with the Multilogin platform to enhance automated browsing capabilities. The integration aimed to provide a seamless experience for users managing multiple profiles across different browsers."],
+        "responsibilities": [
+            "Spearheaded the integration of Selenium with Multilogin...",
+            "Ensured the combined system operated flawlessly...",
+            "Overcame integration challenges to provide an efficient solution."
+        ],
+        "achievements": [
+            "Successfully executed the integration within the stipulated time frame..."
+        ],
+        "category": "Software Integration & Automation",
+        "skills_deployed": ["Automation", "Software Integration"],
+        "client_feedback": null,
+        "tags": [
+            "Bot Development"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Automation, Software Integration \nResponsibilities: ['Spearheaded the integration of Selenium with Multilogin...', 'Ensured the combined system operated flawlessly...', 'Overcame integration challenges to provide an efficient solution.']\nOverview: BitBash undertook an ambitious project to integrate the advanced web automation tool, Selenium, with the Multilogin application...",
+        "heading": "Selenium & Multilogin Integration"
+    },
+    {
+        "id": 22,
+        "pic": "./pastproject/Multilogin Bots.png",
+        "title": "Advanced Multilogin Bot Development & Management",
+        "duration": "Aug 17, 2023 - Sep 11, 2023",
+        "client": "",
+        "location": "",
+        "overview": ["This project involved creating sophisticated automation solutions designed to manage multiple browser profiles and streamline digital workflow processes. The development focused on building robust bot functionality that could operate effectively within Multilogin's multi-profile environment while maintaining consistent performance across different browser instances. The project emphasized delivering reliable automation capabilities that met specific operational requirements while ensuring proper system integration and management protocols"],
+        "responsibilities": [
+            "End-to-end bot development and management for multilogin functionalities."
+        ],
+        "achievements": [
+            "Completed the project within the allocated timeframe, delivering outstanding results..."
+        ],
+        "category": "Bot Development / Automation",
+        "skills_deployed": ["Bot Development", "Multilogin Automation"],
+        "client_feedback": "Working with BitBash was an absolute pleasure...",
+        "tags": [
+            "Bot Development",
+            "Multilogin Automation",
+            "Bot Development / Automation"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Bot Development, Multilogin Automation\nResponsibilities: ['End-to-end bot development and management for multilogin functionalities.']\nOverview: None",
+        "heading": "Multilogin Automation"
+    },
+    {
+        "id": 23,
+        "pic": "./pastproject/Multilogin Automation  APIPython SeleniumNode js Puppeteer.png",
+        "title": "Automating Multilogin using Python & Node.js",
+        "duration": "May 27, 2020 - Sep 14, 2020",
+        "client": "Jeff",
+        "location": "",
+        "overview": ["This project focused on automating the Multilogin platform using Python and Node.js. The goal was to enhance the efficiency of managing multiple browser profiles and streamline the automation process."],
+        "responsibilities": ["Automating Multilogin using Python and Node.js involves leveraging their respective strengths to manage browser profiles, perform tasks, and integrate with the Multilogin API"],
+        "achievements": [],
+        "category": null,
+        "skills_deployed": ["Automation", "Python", "Node.js"],
+        "client_feedback": null,
+        "tags": ["Multilogin", "Automation"],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Automation, Software Integration\nResponsibilities: []\nOverview: None",
+        "heading": "Advanced Automation Integration"
+    },
+    {
+        "id": 24,
+        "pic": "./pastproject/SocialMediaAutomation.png",
+        "title": "Social Media Automation",
+        "duration": "May 22, 2020 - May 25, 2020",
+        "client": "Highline Pte Ltd",
+        "location": "Singapore",
+        "overview": ["This project aimed to automate social media interactions and management tasks, enhancing efficiency and user engagement."],
+        "responsibilities": ["Developing automation scripts for social media platforms", "Integrating APIs for seamless data exchange", "Ensuring compliance with platform policies"],
+        "achievements": ["Successfully reduced manual effort by 80%", "Improved response times for user interactions"],
+        "category": "Scripts & Utilities",
+        "skills_deployed": ["Automation", "API Integration"],
+        "client_feedback": null,
+        "tags": [
+            "Scripts & Utilities",
+            "Automation"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: []\nOverview: None",
+        "heading": "Social Media Automation"
+    },
+    {
+        "id": 25,
+        "pic": "./pastproject/Matching Global Elections to Ideology.png",
+        "title": "Comprehensive Ideological Mapping of Global Election Landscapes: A Precision-Driven Approach",
+        "duration": "Feb 10, 2020 - Mar 16, 2020",
+        "client": "Alberto Ortega",
+        "location": "",
+        "overview": [
+            "BitBash was entrusted with the challenging task of matching global election data to specific ideologies..."
+        ],
+        "responsibilities": [
+            "Data matching and alignment...",
+            "Ensuring precision in linking elections to respective ideologies...",
+            "Validating data integrity and relevance..."
+        ],
+        "achievements": [
+            "Successfully matched global election data to ideologies with a high degree of accuracy..."
+        ],
+        "category": "Data Analysis and Matching",
+        "skills_deployed": ["Data Analysis", "Data Matching"],
+        "client_feedback": null,
+        "tags": [
+            "Data Analysis and Matching",
+            "Data Engineering"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: ['Data matching and alignment...', 'Ensuring precision in linking elections to respective ideologies...', 'Validating data integrity and relevance...']\nOverview: BitBash was entrusted with the challenging task of matching global election data to specific ideologies...",
+        "heading": "General Project"
+    },
+    {
+        "id": 26,
+        "pic": "./pastproject/Long-term support and updates for Selenium bot.png",
+        "title": "Sustained Support and Evolution for Selenium Automation",
+        "duration": "Sep 30, 2019 - Dec 8, 2019",
+        "client": "Job Greben",
+        "location": "Netherlands, Leeuwarden",
+        "overview": [
+            "This project focused on providing ongoing support and enhancements for an existing Selenium automation bot."
+        ],
+        "responsibilities": [
+            "Maintenance and updates for the Selenium bot",
+            "Improving bot functionalities based on client feedback",
+            "Offering continuous support to ensure optimal bot performance"
+        ],
+        "achievements": [
+            "Consistent delivery of updates and improvements to the Selenium bot"
+        ],
+        "category": "Scripting & Automation",
+        "skills_deployed": ["Selenium", "Python", "JavaScript"],
+        "client_feedback": null,
+        "tags": [
+            "Scripting & Automation","Automation"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Selenium, Python, JavaScript\nResponsibilities: ['Maintenance and updates for the Selenium bot', 'Improving bot functionalities based on client feedback', 'Offering continuous support to ensure optimal bot performance']\nOverview: Maintaining, updating, and improving an existing bot...",
+        "heading": "General Project"
+    },
+    {
+        "id": 27,
+        "pic": "./pastproject/linkedInBotUsingRnRuby.png",
+        "title": " LinkedIn Data Extraction Tool in R/Ruby",
+        "duration": "Jan 16, 2020 - Feb 13, 2020",
+        "client": "Adama",
+        "location": "",
+        "overview": [
+            "A LinkedIn Data Extraction Tool built with R or Ruby automates the retrieval of public LinkedIn data such as profiles, posts, and connections. R offers powerful data analysis libraries like rvest for web scraping and dplyr for processing, ideal for statistical insights. Ruby, with gems like mechanize and nokogiri, provides a flexible and object-oriented approach for scraping and parsing HTML. Both languages ensure compliance with LinkedIn's terms of service and API usage policies to avoid legal issues."
+        ],
+        "responsibilities": [
+            "Design, development, and implementation of a scraper...",
+            "Ensure the scraper was optimized for either the R or Ruby programming languages...",
+            "Adherence to LinkedIn's terms of service..."
+        ],
+        "achievements": [
+            "BitBash delivered a fully functional LinkedIn scraper..."
+        ],
+        "category": "Data Scraping",
+        "skills_deployed": ["Selenium", "R", "Ruby"],
+        "client_feedback": null,
+        "tags": [
+            "Data Scraping"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: R, Ruby\nResponsibilities: ['Design, development, and implementation of a scraper...', 'Ensure the scraper was optimized for either the R or Ruby programming languages...', \"Adherence to LinkedIn's terms of service...\"]\nOverview: BitBash successfully developed a specialized scraper for LinkedIn...",
+        "heading": "General Project"
+    },
+    {
+        "id": 28,
+        "pic": "./pastproject/linkedInprofileScrapper.png",
+        "title": "LinkedIn Profile Scraper",
+        "duration": "Jan 27, 2020 - Mar 5, 2020",
+        "client": "Shay Noir",
+        "location": "Toronto, Canada",
+        "overview": [
+            "A LinkedIn Profile Scraper automates the extraction of public data from LinkedIn profiles, such as names, headlines, locations, and experience, using tools like Python (requests, beautifulsoup4) or Ruby (mechanize, nokogiri). It operates within LinkedIn’s terms of service and API guidelines, employing rate limiting and human-like headers to avoid detection. The scraped data is saved in structured formats like CSV or JSON, with the option to leverage LinkedIn’s official API for legal and efficient access."
+        ],
+        "responsibilities": [
+            "Designing and implementing a data extraction tool tailored for LinkedIn...",
+            "Ensuring consistency in data formatting and extraction...",
+            "Capturing a wide array of data points from LinkedIn profiles..."
+        ],
+        "achievements": [
+            "Successfully met the client's requirements, delivering the project within the agreed-upon timeframe..."
+        ],
+        "category": "Data Scrapping",
+        "skills_deployed": ["Python", "Ruby"],
+        "client_feedback": null,
+        "tags": [
+            "Data Scraping"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: R, Ruby\nResponsibilities: ['Designing and implementing a data extraction tool tailored for LinkedIn...', 'Ensuring consistency in data formatting and extraction...', 'Capturing a wide array of data points from LinkedIn profiles...']\nOverview: BitBash was approached to develop a robust solution for LinkedIn profile scraping...",
+        "heading": "LinkedIn Data Scraper"
+    },
+    {
+        "id": 29,
+        "pic": "./pastproject/tradingViewdataScrape.png",
+        "title": " Comprehensive Data Scraping from Trading View Platform for Analytical Insights        ",
+        "duration": "Aug 14, 2020 - Aug 17, 2020",
+        "client": "",
+        "location": "",
+        "overview": [
+            "Comprehensive data scraping from the TradingView platform for analytical insights involves extracting real-time financial data, including stock prices, technical indicators, chart patterns, and market trends. Tools like Python with libraries such as Selenium, BeautifulSoup, or third-party solutions like tvdatafeed can automate the retrieval of publicly available data, while adhering to TradingView's terms of service. The scraped data, structured in formats like CSV or JSON, enables in-depth analysis for trading strategies, market sentiment, and technical evaluations."
+        ],
+        "responsibilities": [
+            "Scrape stock prices and indicators from TradingView using Python",
+            "Adhere to TradingView terms with rate limiting and headers",
+            "Organize data into CSV/JSON for analysis"
+        ],
+        "achievements": [
+            "Successfully extracted and organized data for client analysis"
+        ],
+        "category": "Data Scraping",
+        "skills_deployed": ["Python", "Selenium", "BeautifulSoup"],
+        "client_feedback": null,
+        "tags": [
+            "Data Scraping"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Python, Selenium, BeautifulSoup\nResponsibilities: ['Scrape stock prices and indicators from TradingView using Python', 'Adhere to TradingView terms with rate limiting and headers', 'Organize data into CSV/JSON for analysis']\nOverview: Comprehensive data scraping from the TradingView platform for analytical insights involves extracting real-time financial data, including stock prices, technical indicators, chart patterns, and market trends. Tools like Python with libraries such as Selenium, BeautifulSoup, or third-party solutions like tvdatafeed can automate the retrieval of publicly available data, while adhering to TradingView's terms of service. The scraped data, structured in formats like CSV or JSON, enables in-depth analysis for trading strategies, market sentiment, and technical evaluations.",
+        "heading": "General Project"
+    },
+    {
+        "id": 30,
+        "pic": "./pastproject/stockPrediction.png",
+        "title": "Machine Learning Stock Forecast Dashboard",
+        "duration": "Sep 20, 2019 - Sep 23, 2019",
+        "client": "AJ King",
+        "location": "Herndon, United States",
+        "overview": [
+            "A Machine Learning Stock Forecast Dashboard leverages predictive models to analyze historical stock data and forecast future prices, trends, and volatility. Built using Python with libraries like scikit-learn, pandas, and matplotlib, or frameworks like Flask/Django for the interface, it integrates scraped or API-sourced data (e.g., from TradingView or Yahoo Finance). The dashboard provides interactive visualizations, real-time updates, and customizable forecasts, aiding investors in decision-making"
+        ],
+        "responsibilities": [
+            "Designing and implementing the dashboard",
+            "Implementing machine learning algorithms for stock price prediction",
+            "Ensuring seamless collaboration with the client"
+        ],
+        "achievements": [
+            "Successful on-time delivery of the project with a perfect client rating"
+        ],
+        "category": "Machine Learning/Data Analysis",
+        "skills_deployed": ["Machine Learning", "Data Analysis", "Python"],
+        "client_feedback": "Zeeshan and the BitBash team were an absolute pleasure to work with...",
+        "tags": [
+            "Machine Learning",
+            "Data Analysis",
+            "Python",
+            "Machine Learning/Data Analysis"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Machine Learning, Data Analysis, Python\nResponsibilities: ['Designing and implementing the dashboard', 'Implementing machine learning algorithms for stock price prediction', 'Ensuring seamless collaboration with the client']\nOverview: Developed an application featuring a functional dashboard for predicting stock prices using machine learning algorithms.",
+        "heading": "General Project"
+    },
+    {
+        "id": 31,
+        "pic": "./pastproject/twitterScrapper.png",
+        "title": " Tweet Database Creation: Curating Facts from Twitter",
+        "duration": "Dec 11, 2019 - Dec 18, 2019",
+        "client": "Garguilo srls",
+        "location": "Massa Lubrense, Italy",
+        "overview": [
+            "Tweet Database Creation involves designing and building a structured database to store Twitter data, such as tweets, user information, and interactions like retweets and likes. Using technologies like MySQL, PostgreSQL, or NoSQL databases (e.g., MongoDB), data can be collected via Twitter’s API or web scraping tools, adhering to its terms of service. The process includes schema design for entities (users, tweets) with attributes (text, timestamp), data preprocessing, and optimization for queries like trend analysis."
+        ],
+        "responsibilities": [
+            "Efficiently scraping tweets adhering to Twitter's API constraints",
+            "Systematic insertion of tweets into an SQL table structure",
+            "Providing segmented files containing MySQL queries"
+        ],
+        "achievements": [
+            "Successfully navigated complexities to extract and structure tweets into an SQL table"
+        ],
+        "category": "Data Scraping",
+        "skills_deployed": ["Data Analysis", "SQL", "Python"],
+        "client_feedback": null,
+        "tags": [
+            "Data Scraping"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: [\"Efficiently scraping tweets adhering to Twitter's API constraints\", 'Systematic insertion of tweets into an SQL table structure', 'Providing segmented files containing MySQL queries']\nOverview: Aimed to scrape tweets from several 'Facts accounts' on Twitter...",
+        "heading": "General Project"
+    },
+    {
+        "id": 32,
+        "pic": "./pastproject/scrapeProductDetail.png",
+        "title": "In-depth Semantic Harvesting: A Comprehensive Product Data Compilation across Varied Structured Formats",
+        "duration": "Feb 12, 2020 - Feb 14, 2020",
+        "client": "Dave S",
+        "location": "Austin, United States",
+        "overview": [
+            "In-depth Semantic Harvesting involves extracting and analyzing the meaning, context, and relationships within unstructured data, such as text from websites, social media, or documents, using advanced natural language processing (NLP) techniques. Leveraging tools like Python with libraries such as NLTK, spaCy, or Transformers (e.g., BERT), it identifies entities, sentiments, and themes, going beyond surface-level scraping to capture semantic depth. The process includes data collection, entity recognition, relationship mapping, and knowledge graph creation, enabling insights for applications like market research or AI training."
+        ],
+        "responsibilities": [
+            "Scrape comprehensive product information from the website",
+            "Process data for compatibility with HTML, CSV, and parsed HTML into CSV columns"
+        ],
+        "achievements": [
+            "Successfully extracted and delivered data in specified formats, receiving exemplary client review"
+        ],
+        "category": "Data Scraping",
+        "skills_deployed": ["Selenium", "Python", "Data Processing"],
+        "client_feedback": null,
+        "tags": [
+            "Data Scraping"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: ['Scrape comprehensive product information from the website', 'Process data for compatibility with HTML, CSV, and parsed HTML into CSV columns']\nOverview: Extract specific product details from a designated website in multiple formats...",
+        "heading": "General Project"
+    },
+    {
+        "id": 33,
+        "pic": "./pastproject/scrapeMonashData.png",
+        "title": "Harnessing Key Nutritional Data from Monash University's FODMAP App for Structured Analysis",
+        "duration": "Apr 7, 2020 - Apr 21, 2020",
+        "client": "Fig - Food Is Good",
+        "location": "New Rochelle, United States",
+        "overview": [
+            "Harnessing key nutritional data from Monash University's FODMAP App for structured analysis involves extracting detailed dietary information, such as food items, FODMAP levels (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols), and serving sizes, to support dietary management for conditions like IBS. Using tools like Python with BeautifulSoup or API integration (if available), the data is scraped or accessed, cleaned, and organized into structured formats like CSV or SQL databases. This enables advanced analysis for personalized nutrition plans, trend identification, and research insights."
+        ],
+        "responsibilities": [
+            "Scraping data from the app",
+            "Extracting specific details for structured compilation into Excel/CSV format"
+        ],
+        "achievements": [
+            "Successfully scraped and structured data for about 500-1000 items from the app"
+        ],
+        "category": "Data Scraping",
+        "skills_deployed": ["Data Extraction", "Python", "Web Scraping"],
+        "client_feedback": null,
+        "tags": [
+            "Data Scraping"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: ['Scraping data from the app', 'Extracting specific details for structured compilation into Excel/CSV format']\nOverview: Objective to extract data from the Monash University Fodmap app into Excel or CSV...",
+        "heading": "General Project"
+    },
+    {
+        "id": 34,
+        "pic": "./pastproject/pythonDeveloper.png",
+        "title": "Strategic Python Development and Implementation for Optimized Business Solutions",
+        "duration": "Feb 16, 2020 - May 14, 2020",
+        "client": "",
+        "location": "",
+        "overview": [
+            "Strategic Python Development and Implementation for Optimized Business Solutions involves designing and deploying custom Python-based applications to address specific business challenges, enhancing efficiency and scalability. Utilizing libraries like pandas for data analysis, Flask or Django for web development, and scikit-learn for machine learning, it supports tasks such as data processing, automation, and predictive analytics. The process includes requirement analysis, code optimization, integration with existing systems, and performance testing, tailored to business goals."
+        ],
+        "responsibilities": [
+            "Identify business needs and define project goals with stakeholders.",
+            "Design and develop Python applications or scripts to address specific business challenges.",
+            "Integrate Python solutions with existing systems and databases.",
+            "Test and optimize code for performance and scalability."
+        ],
+        "achievements": [
+            "Successfully delivered a comprehensive Python solution that improved business operations.",
+            "Enhanced data processing speed by 30% through optimized algorithms."
+        ],
+        "category": "",
+        "skills_deployed": ["Python", "Data Analysis", "Web Development"],
+        "client_feedback": null,
+        "tags": [
+            "Web Development",
+            "Data Analysis",
+            "Python"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: ['']\nOverview: ",
+        "heading": "General Project"
+    },
+    {
+        "id": 35,
+        "pic": "./pastproject/AI & Machine Learning Automation Project.png",
+        "title": "AI & Machine Learning Automation Project",
+        "duration": "Apr 29, 2021 - Feb 11, 2022",
+        "client": "Picasso Media LLC",
+        "location": "Tampa, United States",
+        "overview": [
+            "An AI & Machine Learning Automation Project leverages artificial intelligence and machine learning to automate complex tasks, enhancing efficiency and decision-making across industries. Using Python with libraries like TensorFlow, scikit-learn, and PyAutoGUI, it involves building models for tasks such as data processing, predictive analytics, or robotic process automation, integrated with workflows via APIs or scripts. The process includes data collection, model training, deployment, and continuous optimization, tailored to specific use cases."
+        ],
+        "responsibilities": [
+            "Orchestrated automation routines for a two-part form submission",
+            "Incorporated machine learning for precision in data operations",
+            "Pioneered data scraping and sanitizing methods"
+        ],
+        "achievements": [
+            "Triumphantly brought the automation project to fruition within the designated timeframe, deftly navigating 103 work hours.",
+            "Met and exceeded the client's operational targets by revolutionizing form processing tasks through automation"
+        ],
+        "category": "Machine Learning",
+        "skills_deployed": ["Python", "Machine Learning", "Data Analysis"],
+        "client_feedback": "No specific feedback provided (Rating: 5 out of 5)",
+        "tags": [
+        "Machine Learning"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: None\nResponsibilities: ['Orchestrated automation routines for a two-part form submission', 'Incorporated machine learning for precision in data operations', 'Pioneered data scraping and sanitizing methods']\nOverview: Engaged in a pivotal automation project leveraging AI and Machine Learning...",
+        "heading": "General Project"
+    },
+    {
+        "id": 36,
+        "pic": "./pastproject/PHP upgrade.png",
+        "title": "CodeIgniter Migration to PHP 7",
+        "duration": "Sep 13, 2019 - Oct 24, 2019",
+        "client": "Job Greben",
+        "location": "Netherlands, Leeuwarden",
+        "overview": [
+            "CodeIgniter Migration to PHP 7 involves upgrading a legacy CodeIgniter application from older PHP versions (e.g., PHP 5.x) to PHP 7.x to leverage improved performance, security, and modern features. This process includes reviewing the existing codebase, updating configuration files (e.g., database.php, config.php), and ensuring compatibility with PHP 7’s syntax and extensions (e.g., mbstring, curl). It may require refactoring deprecated functions, testing thoroughly, and optionally migrating to a newer CodeIgniter version (e.g., 3.x or 4.x) for better PHP 7 support."
+        ],
+        "responsibilities": [
+            "Assessment of the outdated CodeIgniter site",
+            "Transition to PHP 7",
+            "Testing and ensuring functionality and integrity of the upgraded site"
+        ],
+        "achievements": [
+            "Successfully completed the PHP 7 upgrade within the stipulated timeframe"
+        ],
+        "category": "Back-End Development",
+        "skills_deployed": [
+            "PHP",
+            "CodeIgniter Framework"
+        ],
+        "client_feedback": "No given",
+        "tags": [
+            "PHP",
+            "CodeIgniter Framework",
+            "Back-End Development"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: PHP, CodeIgniter Framework\nResponsibilities: ['Assessment of the outdated CodeIgniter site', 'Transition to PHP 7', 'Testing and ensuring functionality and integrity of the upgraded site']\nOverview: BitBash took on the challenge of upgrading an outdated CodeIgniter site to PHP 7...",
+        "heading": "General Project"
+    },
+    {
+        "id": 37,
+        "pic": "./pastproject/Node.js & Python Expert Full stack Developer Needed.png",
+        "title": "Node.js & Python Full Stack Project",
+        "duration": "Sep 11, 2023 - Sep 12, 2023",
+        "client": "",
+        "location": "",
+        "overview": ["A full-stack web application integrating Node.js for the frontend/backend server and Python for data processing or ML tasks. Node.js handles routing, APIs, and real-time features using Express and Socket.io. Python (via Flask/FastAPI) manages computation-heavy tasks, exposed through RESTful services. The stack leverages MongoDB/PostgreSQL, ensuring scalable and data-driven performance."],
+        "responsibilities": [
+            "Full stack development using Node.js and Python"
+        ],
+        "achievements": [
+            "Successfully completed the project within the stipulated time frame..."
+        ],
+        "category": "Full Stack Development",
+        "skills_deployed": ["Node.js", "Python", "Full Stack Development"],
+        "client_feedback": "BitBash comes highly recommended...",
+        "tags": [
+            "Node.js",
+            "Python",
+            "Full Stack Development",
+            "Full Stack Development"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Node.js, Python, Full Stack Development\nResponsibilities: ['Full stack development using Node.js and Python']\nOverview: None",
+        "heading": "General Project"
+    },
+    {
+        "id": 38,
+        "pic": "./nftbot.png",
+        "title": "Discord Bot for NFT",
+        "duration": "",
+        "client": "",
+        "location": "",
+        "overview": [
+            "This project involved developing a specialized Discord bot designed to integrate with NFT marketplaces and provide real-time pricing and collection data within Discord server environments. The bot implementation focused on API connectivity with platforms like OpenSea to fetch current market information, track price movements, and display NFT collection statistics for community members. The solution included customizable tracking features that allowed users to monitor specific NFT collections and receive automated updates about price changes and market trends. The project emphasized creating an intuitive user interface within Discord's chat environment while maintaining reliable data accuracy and responsive performance for NFT community engagement."
+        ],
+        "responsibilities": [
+            "Fetching NFT data from OpenSea",
+            "Displaying current prices of NFTs in Discord channels",
+            "Tracking and displaying the price history of NFTs",
+            "Customizing the bot to track specific NFT collections"
+        ],
+        "achievements": [
+            "Keep track of the price of your favorite NFTs",
+            "See how the price of NFTs has changed over time",
+            "Make informed decisions about when to buy or sell NFTs",
+            "Stay up-to-date on the latest NFT trends"
+        ],
+        "category": "Bot Development",
+        "skills_deployed": [ "Bot Development", "API Integration", "Discord Integration"],
+        "client_feedback": [],
+        "tags": [
+            "Discord Bot",
+            "NFT",
+            "OpenSea",
+            "API Integration",
+            "Price Tracking",
+            "Bot Development"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "This Discord bot fetches NFT data from OpenSea and displays it in Discord channels. It allows users to specify NFT collections for tracking and shows the current price and price history of each NFT.",
+        "heading": "General Project"
+    },
+    {
+        "id": 39,
+        "pic": "./acturay.png",
+        "title": "Actuary Chatbot",
+        "duration": "Ongoing",
+        "client": "Actuary.ai",
+        "location": "Online - https://www.myactuary.ai/",
+        "overview": [
+            "This project involved developing an AI-powered chatbot specifically designed for the actuarial profession, built using Next.js framework and trained on extensive actuarial datasets. The implementation included training the model on approximately 960,000 data embeddings with 300 tokens per line, focusing on actuarial-specific knowledge and industry terminology. The solution featured a comprehensive chat interface with capabilities similar to ChatGPT but specialized for actuarial queries, including multi-chat functionality, light/dark mode options, and PDF sharing capabilities. The project emphasized creating an intuitive user experience for actuarial professionals while maintaining accurate, domain-specific responses through specialized training data and custom interface design."
+        ],
+        "responsibilities": [],
+        "achievements": [
+            "Trained on personal data of actuary.",
+            "Trained on 9.6 lac sentences.",
+            "Functions similar to ChatGPT.",
+            "Features a better interface.",
+            "Allows users to create new chats."
+        ],
+        "category": "AI Chatbot Development",
+        "skills_deployed": ["Nextjs", "Natural Language Processing", "Chatbot Development"],
+        "client_feedback": "User feedback is actively monitored. No significant issues reported.",
+        "tags": [
+            "Actuary",
+            "Chatbot",
+            "AI Integration",
+            "Nextjs"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Project descriptionTitle: Actuary Chatbot\nlink: https://www.myactuary.ai/\nDescription: Actuary Chatbot is built in Nextjs and trained with 9.6 lac data embeddings, each line consisting of 300 tokens. This bot is trained on Actuary data. Features: Like ChatGPT, Generates response from training data, MultiChat option, Light and Dark mode, PDF Sharing, Chat Save, Generate New Chat, Responsive interface How to use: This ChatBot is trained on personal data of actuary. Trained on 9.6 lac sentences. Use it similarly to ChatGPT with a better interface. Create a new chat.",
+        "heading": "General Project"
+    },
+    {
+        "id": 40,
+        "pic": "./oppturnityfy.png",
+        "title": "Opportunify",
+        "duration": "Ongoing",
+        "client": "Opportunify.me",
+        "location": "Online - https://app.opportunify.me/",
+        "overview": [
+            "Opportunify is built with Django backend and Angular frontend.The platform provides students with numerous job opportunities based on their interests.Students can apply for jobs, upload their CVs, and companies can directly hire them."
+        ],
+        "responsibilities": [],
+        "achievements": [],
+        "category": "Web Development",
+        "skills_deployed": ["Django", "Angular", "Full Stack Development"],
+        "client_feedback": "User feedback is actively monitored. No significant issues reported.",
+        "tags": [
+            "Opportunify",
+            "Job Opportunities",
+            "Django",
+            "Angular"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Project descriptionTitle: Opportunify\nlink: https://app.opportunify.me/\nDescription: Opportunify is built with Django backend and Angular frontend. The platform provides students with numerous job opportunities based on their interests. Students can apply for jobs, upload their CVs, and companies can directly hire them. Features: New Job Opportunity, New Job Alert, Students will get all new Opportunity from this platform like USA, UK, France, London, Canada, Germany, etc. Companies will directly hire students here. How to use: Visit the Opportunify website and explore the various job opportunities available. Apply for jobs that match your interests and upload your CV for potential direct hiring by companies.",
+        "heading": "General Project"
+    },
+    {
+        "id": 41,
+        "pic": "./polyglotme.png",
+        "title": "Polyglotme",
+        "duration": "Ongoing",
+        "client": "Polyglotme.com",
+        "location": "Online - https://www.polyglotme.com/",
+        "overview": [
+            "Polyglotme is built with Django Full Stack.The platform allows students to learn new languages from teachers.Features include signup/login, buying plans for learning new languages, online classes, and interaction between tutors and students."
+        ],
+        "responsibilities": ["Addressed and resolved challenges tied to the scraping procedure for language content."],
+        "achievements": [],
+        "category": "Language Learning Platform",
+        "skills_deployed": ["Django", "Full Stack Development"],
+        "client_feedback": "User feedback is actively monitored. No significant issues reported.",
+        "tags": [
+            "Polyglotme",
+            "Language Learning",
+            "Django",
+            "Full Stack Development"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Project descriptionTitle: Polyglotme\nlink: https://www.polyglotme.com/\nDescription: Polyglotme is built with Django Full Stack. The platform allows students to learn new languages from teachers. Features include signup/login, buying plans for learning new languages, online classes, and interaction between tutors and students. How to use: Visit the Polyglotme website, sign up or log in, explore available language learning plans, and engage in online classes with tutors to enhance your language skills.",
+        "heading": "General Project"
+    },
+    {
+        "id": 42,
+        "pic": "./cloudCLMLIVE.png",
+        "title": "CloudCLMLive",
+        "duration": "Ongoing",
+        "client": "CloudCLMLive.com",
+        "location": "Online - https://demo.cloudclmlive.com/",
+        "overview": [
+            "CloudCLMLive is built with PHP CodeIgniter.The platform serves as a legal law website where users can generate agreements.Features include signup/login, legal agreements, a chatbot that generates legal agreements, and access to various laws and agreements with the ability to generate clauses."
+        ],
+        "responsibilities": ["Addressed and resolved challenges tied to the legal agreement generation process."],
+        "achievements": [],
+        "category": "Legal Law Website",
+        "skills_deployed": ["PHP"," CodeIgniter", "Legal Tech"],
+        "client_feedback": "User feedback is actively monitored. No significant issues reported.",
+        "tags": [
+            "CloudCLMLive",
+            "Legal Agreements",
+            "PHP",
+            "Back-End Development",
+            "CodeIgniter"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Project descriptionTitle: CloudCLMLive\nlink: https://demo.cloudclmlive.com/\nDescription: CloudCLMLive is built with PHP CodeIgniter. The platform serves as a legal law website where users can generate agreements. Features include signup/login, legal agreements, a chatbot that generates legal agreements, and access to various laws and agreements with the ability to generate clauses. How to use: Visit the CloudCLMLive website, sign up or log in, utilize the chatbot to generate legal agreements, and explore the platform for legal resources and clause generation.",
+        "heading": "General Project"
+    },
+    {
+        "id": 43,
+        "pic": "./pastproject/smsdiscordbot.png",
+        "title": "SMS Discord Bot",
+        "duration": "Jan 10, 2020 - Mar 15, 2020",
+        "client": "TECH INNOVATORS LLC",
+        "location": "United States",
+        "overview": [
+            "The SMS Discord Bot is an advanced automation solution designed to streamline server management and facilitate seamless communication on the Discord platform.",
+            "Leveraging the power of Python, API calling, scripting, and file I/O operations, this bot offers a wide range of features, including port switching, ICCID data retrieval, server reset/restart, slash commands, CSV data generation, and a versatile file management system."
+        ],
+        "responsibilities": [
+            "Designed, implemented, and maintained the SMS Discord Bot.",
+            "Integrated API calls for port switching, ICCID data retrieval, and server management.",
+            "Implemented slash commands for user-friendly interactions.",
+            "Developed a robust file system for efficient data handling.",
+            "Created a CSV generation mechanism for easy analysis and reporting.",
+            "Ensured secure server credential management."
+        ],
+        "achievements": [
+            "Specific achievements were not provided"
+        ],
+        "category": "Discord Automation & Python Development",
+        "skills_deployed": [
+            "Python",
+            "API Integration",
+            "Scripting",
+            "File I/O Operations",
+            "CSV Generation",
+            "Server Management",
+            "Slash Commands",
+            "Credential Security"
+        ],
+        "client_feedback": "Initial client feedback has been positive, emphasizing the SMS Discord Bot's effectiveness in simplifying server management tasks, providing quick access to vital information, and offering a user-friendly interface through slash commands. Clients appreciate the bot's versatility and reliability in handling complex tasks effortlessly.",
+        "tags": [
+            "SMS Discord Bot",
+            "Discord Automation",
+            "Bot  Development",
+            "API Integration",
+            "Scripting",
+            "File I/O Operations",
+            "CSV Generation",
+            "Server Management",
+            "Slash Commands",
+            "Credential Security"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Python, API Integration, Scripting, File I/O Operations, CSV Generation, Server Management, Slash Commands, Credential Security.\nResponsibilities: ['Designed, implemented, and maintained the SMS Discord Bot.', 'Integrated API calls for port switching, ICCID data retrieval, and server management.', 'Implemented slash commands for user-friendly interactions.', 'Developed a robust file system for efficient data handling.', 'Created a CSV generation mechanism for easy analysis and reporting.', 'Ensured secure server credential management.']\nOverview: The SMS Discord Bot is an advanced automation solution designed to streamline server management and facilitate seamless communication on the Discord platform...",
+        "heading": "SMS Bot Development"
+    },
+    {
+        "id": 44,
+        "pic": "./pastproject/facebookmessengerbot.png",
+        "title": "Incogniton MultiProfiles Facebook Messenger Bot",
+        "duration": "May 15, 2021 - Aug 20, 2021",
+        "client": "SOCIAL SOLUTIONS LTD",
+        "location": "United States",
+        "overview": [
+            "The Incogniton MultiProfiles Facebook Messenger Bot is a robust automation tool designed to enhance user engagement and streamline interactions on the Facebook platform.This multifunctional bot employs a combination of Python, Selenium, Incogniton API calling, and Google Sheets integration to efficiently manage various tasks, ensuring a seamless communication experience."
+        ],
+        "responsibilities": [
+            "Designed and implemented the Facebook Messenger bot with a focus on integrating diverse functionalities.",
+            "Managed data flow between Google Sheets and the bot for dynamic and customizable data retrieval.",
+            "Implemented marketplace status checks and ensured effective communication through keyword analysis and timely responses.",
+            "Developed logging mechanisms and profile health tracking for comprehensive performance analytics."
+        ],
+        "achievements": [
+            "Specific achievements were not provided"
+        ],
+        "category": "Facebook Messenger Bot & Automation",
+        "skills_deployed": [
+            "Python",
+            "Selenium",
+            "Incogniton API",
+            "Google Sheet Integration",
+            "Multi-Threading",
+            "Timer Functionality"
+        ],
+        "client_feedback": "Client feedback has been positive, highlighting the bot's efficiency in managing conversations, automating responses, and providing valuable insights through comprehensive logging and profiling.",
+        "tags": [
+            "Facebook Messenger Bot",
+            "Automation",
+            "Google Sheets Integration",
+            "Bot Development",
+            "Selenium Automation",
+            "Incogniton API",
+            "Marketplace Interaction",
+            "Keyword Analysis",
+            "Timer Functionality",
+            "Multi-Threading"
+        ],
+        "contactDetails": [
+            {
+                "icon": "phone",
+                "href": "tel:+923104985441",
+                "text": "BitBash Phone",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "envelope",
+                "href": "mailto:help@bitbash.dev",
+                "text": "Bitbash Mail",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "whatsapp",
+                "href": "https://wa.me/923104985441",
+                "text": "BitBash Whatsapp",
+                "target": "_blank",
+                "rel": "noreferrer"
+            },
+            {
+                "icon": "telegram",
+                "href": "https://t.me/bitbash",
+                "text": "BitBash Telegram",
+                "target": "_blank",
+                "rel": "noreferrer"
+            }
+        ],
+        "description": "Skills Deployed: Python, Selenium, Incogniton API, Google Sheet Integration, Multi-Threading, Timer Functionality.\nResponsibilities: ['Designed and implemented the Facebook Messenger bot with a focus on integrating diverse functionalities.', 'Managed data flow between Google Sheets and the bot for dynamic and customizable data retrieval.', 'Implemented marketplace status checks and ensured effective communication through keyword analysis and timely responses.', 'Developed logging mechanisms and profile health tracking for comprehensive performance analytics.']\nOverview: The Incogniton MultiProfiles Facebook Messenger Bot is a robust automation tool designed to enhance user engagement and streamline interactions on the Facebook platform...",
+        "heading": "Facebook messenger bot"
+    }
+]

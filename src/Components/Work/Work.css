@@ -1,0 +1,181 @@
+a{background-color:rgba(0, 0, 0, 0);}
+
+a:active,a:hover{outline:0;}
+
+.w-inline-block{max-width:100%;display:inline-block;}
+.w-button{color:#fff;line-height:inherit;cursor:pointer;background-color:#3898ec;border:0;border-radius:0;padding:9px 15px;text-decoration:none;display:inline-block;}
+h2,h4{margin-bottom:10px;font-weight:bold;}
+h2{margin-top:20px;font-size:32px;line-height:36px;}
+h4{margin-top:10px;font-size:18px;line-height:24px;}
+p{margin-top:0;margin-bottom:10px;}
+.w-container{max-width:940px;margin-left:auto;margin-right:auto;}
+.w-container:before,.w-container:after{content:" ";grid-area:1 / 1 / 2 / 2;display:table;}
+.w-container:after{clear:both;}
+@media screen and (max-width: 991px){
+.w-container{max-width:728px;}
+}
+@media screen and (max-width: 479px){
+.w-container{max-width:none;}
+}
+h2{color:#241f21;text-transform:capitalize;margin-top:10px;margin-bottom:10px;font-size:46px;font-weight:700;line-height:1.2em;}
+h4{color:#241f21;margin-top:10px;margin-bottom:10px;font-size:28px;font-weight:700;line-height:1.2em;}
+p{color:#69656d;margin-top:10px;margin-bottom:10px;line-height:1.5em;}
+a{color:#4c39f0;align-items:center;line-height:1.2em;text-decoration:none;transition:color .3s;}
+img{max-width:100%;display:inline-block;}
+.section{padding-top:80px;padding-bottom:80px;position:relative;}
+.section.dark-background-extra-30px{background-color:#241f21;padding-top:110px;padding-bottom:110px;}
+.base-container{max-width:1300px;flex-direction:column;align-items:center;margin-left:auto;margin-right:auto;padding-left:15px;padding-right:15px;display:flex;}
+.primary-button{color:#fff;text-align:center;letter-spacing:.5px;text-transform:none;background-color:#4c39f0;border:1px solid #4c39f0;border-radius:30px;padding:12px 24px;font-size:16px;transition:all .3s;display:inline-block;}
+.primary-button:hover{opacity:1;color:#4c39f0;background-color:rgba(0, 0, 0, 0);}
+.primary-button.dark-hover-white{background-color:#241f21;border-color:#241f21;}
+.primary-button.dark-hover-white:hover{color:#241f21;background-color:#fff;border-color:#fff;}
+.text-white{color:#fff;}
+.column-two{width:50%;height:100%;flex-direction:column;align-items:flex-start;display:flex;}
+.column-two.assymetrical{width:10%;}
+.two-column-wrapper{z-index:600;width:100%;height:100%;grid-column-gap:100px;grid-row-gap:40px;flex-direction:row;justify-content:center;align-items:flex-start;display:flex;position:relative;}
+.column-one{width:80%;height:100%;}
+.column-one.assymetrical{width:100%;}
+.tag-outline{z-index:33;border:1px solid #241f21;border-radius:30px;padding:8px 14px;}
+.tag-outline.white-style{color:#fff;border-color:#fff;}
+.blog-item-wrapper{min-height:100%;background-color:rgba(255, 255, 255, .04);border:1px solid rgba(255, 255, 255, .1);border-radius:30px;flex-direction:column;padding:40px 40px 30px;display:flex;position:relative;}
+.collection-list-blog1{grid-column-gap:30px;grid-row-gap:30px;flex-direction:column;grid-template-rows:auto auto;grid-template-columns:1fr 1fr 1fr;display:flex;}
+.blog-title{color:#fff;margin-top:0;transition:color .2s;}
+.blog-title:hover{color:#4c39f0;}
+.blog-image{width:100%;height:240px;object-fit:cover;transition:transform .7s;}
+.blog-image:hover{transform:scale(1.04);}
+.blog-arrow-button{width:60px;height:60px;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);background-color:rgba(76, 57, 240, .8);border-radius:100%;flex-direction:row;justify-content:center;align-items:center;margin-left:auto;font-size:26px;font-weight:600;transition-property:all;display:flex;position:absolute;top:20px;bottom:auto;left:auto;right:20px;}
+.blog-arrow-button:hover{top:30px;right:30px;}
+.blog-image-wrapper{border-radius:30px;margin-bottom:30px;overflow:hidden;}
+.collection-list-wrapper-blog{width:100%;}
+.cta-block-after-content{width:100%;grid-column-gap:60px;background-color:#4c39f0;border-radius:30px;flex-direction:row;justify-content:space-between;align-items:center;padding:40px;display:flex;position:relative;}
+.section-title-cta{width:75%;color:#fff;margin-top:0;margin-bottom:0;}
+.parentdiv{
+  padding: 40px 100px;
+  margin-top: 2% ;
+  margin-bottom: 2%;
+}
+@media screen and (min-width: 1280px){
+h2{font-size:48px;}
+.section{padding-bottom:130px;}
+.section.dark-background-extra-30px{padding-top:60px;padding-bottom:160px;}
+.two-column-wrapper{grid-column-gap:100px;}
+.tag-outline{top:80px;}
+.collection-list-blog1{display:grid;}
+.section-title-cta{width:70%; }
+}
+@media screen and (min-width: 1440px){
+h2,h4{margin-bottom:10px;}
+}
+@media screen and (min-width: 1920px){
+.base-container{max-width:1400px;}
+}
+@media screen and (max-width: 991px){
+h2{font-size:40px;}
+.collection-list-blog1{
+  grid-template-columns: 1fr 1fr;
+
+}
+.primary-button{display:block;}
+.column-two{width:100%;}
+.two-column-wrapper{flex-direction:column;}
+.column-one,.column-one.assymetrical{width:100%;}
+.cta-block-after-content{grid-row-gap:20px;text-align:center;flex-direction:column;}
+.section-title-cta{width:100%;}
+.column-two.assymetrical{width:100%;}
+
+.column-two { 
+  flex-direction: column;
+}
+.column-two{width:100%;}
+.two-column-wrapper{flex-direction:column;}
+.column-one,.column-one.assymetrical{width:100%;}
+.column-two.assymetrical.m-auto {
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  gap: 10px;
+}
+}
+@media screen and (max-width: 767px){
+  .collection-list-blog1{
+    grid-template-columns: 1fr 1fr;
+  }
+  .parentdiv {
+    padding: 15px 15px;
+    margin-top: 12% ;
+    margin-bottom: 12%;
+  }
+  h2{font-size:36px;}
+  .section{padding-top:60px;padding-bottom:60px;}
+  .section.dark-background-extra-30px{padding-top:90px;padding-bottom:90px;}
+  .column-two.assymetrical{width:100%;}
+  .two-column-wrapper{flex-direction:column;}
+  .column-one.assymetrical{width:100%;}
+  .blog-item-wrapper{padding:30px 20px 20px;}
+  .cta-block-after-content{margin-top:60px;padding:20px;}
+  .section-title-cta{width:100%;font-size: 2.5rem !important;}
+}
+@media screen and (max-width: 479px){
+  .primary-button.dark-hover-white{width:100%;}
+  .section-title-cta{width:100%;font-size: 2rem !important;}
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .collection-list-blog1 {
+    grid-template-columns: 1fr 1fr;
+  }  .parentdiv {
+    padding: 20px 40px;
+    margin-top: 2% ;
+    margin-bottom: 2%;
+  }
+}
+/* Add these rules to the end of your existing Work.css file */
+
+/* Force white background for entire page */
+body,
+html {
+  background-color: #ffffff !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Override dark backgrounds */
+.section.dark-background-extra-30px {
+  background-color: #ffffff !important;
+}
+
+.blog-item-wrapper {
+  background-color: #ffffff !important;
+  border: 1px solid #e5e7eb !important;
+}
+
+/* Ensure all containers are white */
+#root,
+.App,
+.work-container,
+.min-h-screen {
+  background-color: #ffffff !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Remove any dark pseudo-elements */
+.section::before,
+.section::after,
+.parentdiv::before,
+.parentdiv::after {
+  display: none !important;
+}
+
+/* Force white on main containers */
+.parentdiv {
+  background-color: #ffffff !important;
+  margin: 0 !important;
+}
+
+.base-container {
+  background-color: #ffffff !important;
+}
+
+/* Override dark sections only - preserve tag colors */
+.section[class*="dark"] {
+  background-color: #ffffff !important;
+}

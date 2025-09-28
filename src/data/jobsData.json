@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "position": "Full Stack MERN Developer",
+      "location": "Lahore (On site)",
+      "type": "Full Time",
+      "salary": "Competitive Package",
+      "experience": "2-4 years",
+      "skills": ["MongoDB", "Express.js", "React", "Node.js", "JavaScript"],
+      "description": "Join our dynamic development team to build cutting-edge web applications using the MERN stack. Work on exciting projects that impact thousands of users.",
+      "requirements": ["Strong MERN stack experience", "JavaScript proficiency", "Database design skills", "API development experience"],
+      "link": "#apply-mern"
+    },
+    {
+      "id": 2,
+      "position": "Senior-Level Django/React Web Developer",
+      "location": "Lahore (On site)",
+      "type": "Full Time",
+      "salary": "Senior Level Package",
+      "experience": "4-6 years",
+      "skills": ["Django", "React", "Python", "JavaScript", "PostgreSQL"],
+      "description": "Lead web development projects using Django backend and React frontend. Mentor junior developers and architect scalable solutions.",
+      "requirements": ["5+ years Django experience", "Advanced React skills", "Leadership experience", "System design knowledge"],
+      "link": "#apply-senior-django"
+    },
+    {
+      "id": 3,
+      "position": "Entry-Level Django/React Web Developer",
+      "location": "Lahore (On site)",
+      "type": "Full Time",
+      "salary": "Entry Level Package",
+      "experience": "0-2 years",
+      "skills": ["Django", "React", "Python", "JavaScript", "HTML/CSS"],
+      "description": "Start your career in web development with Django and React. Work with experienced developers and grow your skills in a supportive environment.",
+      "requirements": ["Basic Django knowledge", "React fundamentals", "Python programming", "Eagerness to learn"],
+      "link": "#apply-entry-django"
+    },
+    {
+      "id": 4,
+      "position": "Full Stack Developer Trainee",
+      "location": "Lahore (On site)",
+      "type": "Full Time",
+      "salary": "Trainee Package",
+      "experience": "0-1 years",
+      "skills": ["HTML", "CSS", "JavaScript", "Basic React", "Basic Node.js"],
+      "description": "Comprehensive training program for aspiring full stack developers. Learn industry best practices while working on real projects.",
+      "requirements": ["Basic programming knowledge", "Strong problem-solving skills", "Commitment to learning", "Computer science background preferred"],
+      "link": "#apply-trainee"
+    },
+    {
+      "id": 5,
+      "position": "Senior Full Stack Web Developer",
+      "location": "Lahore (On site)",
+      "type": "Full Time",
+      "salary": "Senior Package",
+      "experience": "5-8 years",
+      "skills": ["React", "Node.js", "Python", "AWS", "Docker"],
+      "description": "Lead full stack development initiatives and mentor development teams. Work on complex applications and system architecture.",
+      "requirements": ["Extensive full stack experience", "Cloud platform knowledge", "Team leadership skills", "Architecture design experience"],
+      "link": "#apply-senior-fullstack"
+    },
+    {
+      "id": 6,
+      "position": "Full Stack Software Developer (Junior Level)",
+      "location": "Lahore (On site)",
+      "type": "Full Time",
+      "salary": "Junior Level Package",
+      "experience": "1-3 years",
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Git"],
+      "description": "Develop and maintain web applications using modern technologies. Collaborate with cross-functional teams to deliver high-quality software.",
+      "requirements": ["1+ years development experience", "Full stack knowledge", "Version control proficiency", "Team collaboration skills"],
+      "link": "#apply-junior-fullstack"
+    },
+    {
+      "id": 7,
+      "position": "Intern: Python and JavaScript",
+      "location": "Lahore (On site)",
+      "type": "Internship",
+      "salary": "Internship Stipend",
+      "experience": "0 years",
+      "skills": ["Python", "JavaScript", "Basic Web Development", "Git"],
+      "description": "Learn programming fundamentals and web development through hands-on projects. Work with experienced developers in a learning-focused environment.",
+      "requirements": ["Basic Python knowledge", "JavaScript fundamentals", "Strong learning attitude", "Currently pursuing CS degree"],
+      "link": "#apply-intern"
+    }
+  ]

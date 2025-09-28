@@ -1,0 +1,387 @@
+[
+    {
+        "imageSrc": "./pastproject/facebookmarkzuckerburg.png",
+        "title": "Facebook Ad Account Stability Solution",
+        "id": 1,
+        "tags": [
+            "Full Stack Development",
+            "Digital Advertising Solutions"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/AI Chatbot Integration for Professional Queries.png",
+        "title": " AI Chatbot Integration for Professional Queries",
+        "id": 2,
+        "tags": [
+            "Full Stack Development",
+            "AI Integration",
+            "Database Development"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/adminwork.png",
+        "title": "Comprehensive Administrative Task Management",
+        "id": 3,
+        "tags": [
+            "Automation",
+            "Efficiency",
+            "Client Satisfaction"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/browserautomationv2.png",
+        "title": "Browser Automation Suite: Version 2",
+        "id": 5,
+        "tags": [
+            "Automation",
+            "Efficient Execution",
+            "High Quality"
+        ]
+    },
+    {
+        "imageSrc": "https://i.postimg.cc/QNJ03fPN/CRAWL.webp",
+        "title": "Revolutionizing Scalable Data Crawling Paradigms with Optimized Architecture and Parallel Processing on AWS",
+        "id": 6,
+        "tags": [
+            "Data Engineering",
+            "Architecture Development",
+            "Python",
+            "AWS"
+        ]
+    },
+    {
+        "imageSrc": "https://i.postimg.cc/tJnqhs82/CHAT.webp",
+        "title": "AI Chatbot Integration for Professional Queries",
+        "id": 7,
+        "tags": [
+            "AI Chatbot",
+            "API Integration",
+            "Large Language Model",
+            "Web Development"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/hsi.png",
+        "title": "Strategic Aggregation and Synthesis of HSI Data Metrics for Enhanced Analysis",
+        "id": 8,
+        "tags": [
+            "Data Engineering",
+            "Client Satisfaction"
+        ]
+    },
+    {
+        "imageSrc": "./workDummypic.jpg",
+        "title": "ChatGPT Integration for Legal Software",
+        "id": 9,
+        "tags": [
+            "AI Integration",
+            "Legal Software",
+            "ChatGPT",
+            "Machine Learning"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/linkedInbot.png",
+        "title": "Advanced LinkedIn Automation Tool with Twitter Integration Capabilities",
+        "id": 10,
+        "tags": [
+            "LinkedIn Bot",
+            "Automation",
+            "Python",
+            "API Integration"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/facebookAutomationBot.png",
+        "title": "Development of Facebook Automation Bot",
+        "id": 11,
+        "tags": [
+            "Automation"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/electionDataCollection.png",
+        "title": "Automated Election Data Collection from Psephos",
+        "id": 12,
+        "tags": [
+            "Data Engineering"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/datascientistneeded.png",
+        "title": "Strategic Data Engineering: From Legacy Structures to Modern Data Frameworks",
+        "id": 13,
+        "tags": ["Data Engineering"]
+    },
+    {
+        "imageSrc": "./pastproject/dataEngNeeded.png",
+        "title": "Comprehensive Data Engineering: Transformation and Optimization of Extensive Tables via JSON Structuring",
+        "id": 14,
+        "tags": [
+            "Data Engineering"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/linkedInprofileScrapper.png",
+        "title": "Comprehensive LinkedIn Profile Data Extraction: A Tool for Seamless and Precise Data Mining",
+        "id": 15,
+        "tags": [
+            "Data Engineering"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/linkedInProfileScrapperII.png",
+        "title": "LinkedIn Profile and Company Extraction for Denmark",
+        "id": 16,
+        "tags": [
+            "Data Engineering"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/gptmobileapp.png",
+        "title": "GPT Mobile Application for iOS and Android",
+        "id": 17,
+        "tags": [
+            "Mobile App Development"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/facebookMultilogin.png",
+        "title": "Integration of Advanced Custom Bot Functionality for Facebook via Multilogin Platform",
+        "id": 18,
+        "tags": ["Bot Development"]
+    },
+    {
+        "imageSrc": "./pastproject/Selenium Integration with Multilogin.png",
+        "title": "Selenium Integration with Multilogin",
+        "id": 21,
+        "tags": [
+            "Data Scraping"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/Multilogin Bots.png",
+        "title": "Advanced Multilogin Bot Development & Management",
+        "id": 22,
+        "tags": [
+            "Bot Development",
+            "Multilogin Automation"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/Multilogin Automation  APIPython SeleniumNode js Puppeteer.png",
+        "title": "Automating Multilogin using Python & Node.js",
+        "id": 23,
+        "tags": ["Automation"]
+    },
+    {
+        "imageSrc": "https://i.postimg.cc/kXN0Gcb5/social.jpg",
+        "title": "Social Media Automation",
+        "id": 24,
+        "tags": [
+            "Scripts & Utilities","Automation"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/Matching Global Elections to Ideology.png",
+        "title": "Comprehensive Ideological Mapping of Global Election Landscapes: A Precision-Driven Approach",
+        "id": 25,
+        "tags": [
+            "Data Engineering"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/Long-term support and updates for Selenium bot.png",
+        "title": "Sustained Support and Evolution for Selenium Automation",
+        "id": 26,
+        "tags": [
+            "Scripting & Automation","Data Scraping"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/linkedInBotUsingRnRuby.png",
+        "title": " LinkedIn Data Extraction Tool in R/Ruby",
+        "id": 27,
+        "tags": [
+            "Data Scraping"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/linkedInprofileScrapper.png",
+        "title": "LinkedIn Profile Scraper",
+        "id": 28,
+        "tags": [
+            "Data Scraping"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/tradingViewdataScrape.png",
+        "title": " Comprehensive Data Scraping from Trading View Platform for Analytical Insights        ",
+        "id": 29,
+        "tags": [
+            "Data Scraping"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/stockPrediction.png",
+        "title": "Machine Learning Stock Forecast Dashboard",
+        "id": 30,
+        "tags": [
+            "Machine Learning",
+            "Data Analysis",
+            "Python"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/twitterScrapper.png",
+        "title": " Tweet Database Creation: Curating Facts from Twitter",
+        "id": 31,
+        "tags": [
+            "Data Scraping"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/scrapeProductDetail.png",
+        "title": "In-depth Semantic Harvesting: A Comprehensive Product Data Compilation across Varied Structured Formats",
+        "id": 32,
+        "tags": [
+            "Data Scraping"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/scrapeMonashData.png",
+        "title": "Harnessing Key Nutritional Data from Monash University's FODMAP App for Structured Analysis",
+        "id": 33,
+        "tags": [
+            "Data Scrapping"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/pythonDeveloper.png",
+        "title": "Strategic Python Development and Implementation for Optimized Business Solutions",
+        "id": 34,
+        "tags": [
+            "Bot Development"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/AI & Machine Learning Automation Project.png",
+        "title": "AI & Machine Learning Automation Project",
+        "id": 35,
+        "tags": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/PHP upgrade.png",
+        "title": "CodeIgniter Migration to PHP 7",
+        "id": 36,
+        "tags": [
+            "PHP",
+            "CodeIgniter Framework",
+            "Back-End Development"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/Node.js & Python Expert Full stack Developer Needed.png",
+        "title": "Node.js & Python Full Stack Project",
+        "id": 37,
+        "tags": [
+            "Node.js",
+            "Python",
+            "Full Stack Development",
+            "Full Stack Development"
+        ]
+    },
+    {
+        "imageSrc": "./nftbot.png",
+        "title": "Discord Bot for NFT",
+        "id": 38,
+        "tags": [
+            "Bot Development",
+            "NFT",
+            "OpenSea",
+            "API Integration",
+            "Price Tracking"
+        ]
+    },
+    {
+        "imageSrc": "./acturay.png",
+        "title": "Actuary Chatbot",
+        "id": 39,
+        "tags": [
+            "Bot Development",
+            "Chatbot",
+            "Nextjs"
+        ]
+    },
+    {
+        "imageSrc": "./oppturnityfy.png",
+        "title": "Opportunify",
+        "id": 40,
+        "tags": [
+            "Opportunify",
+            "Job Opportunities",
+            "Django",
+            "Angular",
+            "Web Development"
+        ]
+    },
+    {
+        "imageSrc": "./polyglotme.png",
+        "title": "Polyglotme",
+        "id": 41,
+        "tags": [
+            "Polyglotme",
+            "Language Learning",
+            "Django",
+            "Web Development"
+        ]
+    },
+    {
+        "imageSrc": "./cloudCLMLIVE.png",
+        "title": "CloudCLMLive",
+        "id": 42,
+        "tags": [
+            "CloudCLMLive",
+            "Legal Agreements",
+            "PHP",
+            "Back-End Development",
+            "CodeIgniter"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/facebookmessengerbot.png",
+        "title": "Incogniton MultiProfiles Facebook Messenger Bot",
+        "id": 44,
+        "tags": [
+            "Facebook Messenger Bot",
+            "Automation",
+            "Google Sheets Integration",
+            "Python Development",
+            "Selenium Automation",
+            "Incogniton API",
+            "Bot Development",
+            "Marketplace Interaction",
+            "Keyword Analysis",
+            "Timer Functionality",
+            "Multi-Threading"
+        ]
+    },
+    {
+        "imageSrc": "./pastproject/smsdiscordbot.png",
+        "title": "SMS Discord Bot",
+        "id": 43,
+        "tags": [
+            "SMS Discord Bot",
+            "Discord Automation",
+            "Python Development",
+            "API Integration",
+            "Scripting",
+            "File I/O Operations",
+            "CSV Generation",
+            "Server Management",
+            "Slash Commands",
+            "Credential Security"
+        ]}
+]
