@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Allworkbutton from "../../AllWorkBtn/Allworkbutton.jsx";
-import './services.css';
+import './Services.css';
 
 const servicesData = [
   {
