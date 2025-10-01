@@ -9,7 +9,7 @@ function TeamMembers() {
   const location = useLocation();
   const isTeam = location.pathname.includes("/Team");
   const teammembersinfo = teamdata;
-    
+  
   // Show 8 members on home page, all on team page
   const displayedMembers = isTeam ? teammembersinfo : teammembersinfo.slice(0, 8);
 
@@ -52,8 +52,8 @@ function TeamMembers() {
               </div>
             )}
           
-            {/* Responsive Grid Layout - Mobile: 1 column, Tablet+: Multiple columns */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 lg:gap-8">
+            {/* Responsive Grid Layout - Mobile: 1 column, Tablet+: 2 columns, Desktop+: 4 columns */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6 lg:gap-8">
               {displayedMembers.map((info, index) => {
                 const uniqueId = `id-${Date.now()}-${index}`;
                 return (

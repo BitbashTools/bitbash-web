@@ -128,7 +128,7 @@ const BlogPost = ({ imageSrc, title, tag, id }) => {
             {tag.slice(0, 3).map((tagItem, index) => (
               <span
                 key={index}
-                className="inline-block bg-purple-400  text-black text-xs font-semibold px-3 py-1 rounded-full  transition-all duration-200"
+                className="inline-block bg-white text-black text-xs font-semibold px-3 py-1 rounded-full  transition-all duration-200"
               >
                 {tagItem}
               </span>

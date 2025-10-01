@@ -1,4 +1,4 @@
-import Clients from "./HomeClients/Clients";
+
 import SuccessStories from "../SuccessStories/SuccessStories";
 import ServiceGrid from "./HomeServiceComponent/Service";
 import BlogSection from "./HomeSection/Cards";
@@ -8,7 +8,7 @@ function Section() {
   return (
     <div className="w-full"> 
      
-          <Clients />
+       
       
       
       {/* Success Stories Section */}

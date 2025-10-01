@@ -29,7 +29,7 @@ const BlogPost = ({ imageSrc, title, tags, id }) => {
           {tags && tags.slice(0, 3).map((tag, index) => (
             <span
               key={index}
-              className="inline-block bg-purple-400 text-black text-xs font-semibold px-3 py-1 rounded-full  transition-all duration-200"
+              className="inline-block bg-white text-black text-xs font-semibold px-3 py-1 rounded-full  transition-all duration-200"
             >
               {tag}
             </span>
@@ -157,10 +157,10 @@ function Work() {
               return (
                 <button
                   key={`${index}+${item}`}
-                  className={`text-sm md:text-base animate__slideInUp cursor-pointer px-6 py-3 rounded-full font-medium transition-all duration-300 border-2 shadow-md hover:shadow-lg hover:transform hover:scale-105 ${
+                  className={`text-sm cursor-pointer px-4 py-2 rounded-full font-normal transition-colors duration-200 border ${
                     isTagSelected(item) 
-                      ? "bg-purple-300 text-black border-purple-300 transform scale-105 shadow-lg" 
-                      : "bg-white text-black border-black"
+                      ? "bg-black text-white border-black" 
+                      : "bg-white text-black border-gray-300 hover:bg-white hover:border-gray-300"
                   }`}
                   onClick={() => handleClick(item)}
                 >
